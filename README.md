@@ -1,2 +1,2 @@
 # Wip
-W(ork) i(n) p(progress)
+* A W(ork) i(n) p(progress) that will be slowly bootstrapped.
