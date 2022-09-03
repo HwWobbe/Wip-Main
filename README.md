@@ -1,4 +1,5 @@
 #
+# start crafting the API collaboration infrastructure
 # Wip
 * A Public W(ork) i(n) p(rogress) that is being slowly bootstrapped.
 * * the fact that this is a public repository suggests that there could also be a Public Slack channel for AdManCa
