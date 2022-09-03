@@ -1,5 +1,5 @@
-#
-# Wip
+* create PRs to make this the proper repo
+# Wip-main
 * A Public W(ork) i(n) p(rogress) that is being slowly bootstrapped.
 * * the fact that this is a public repository suggests that there could also be a Public Slack channel for AdManCa
 * * * should AdManCa and DigCa be kept separated?
