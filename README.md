@@ -1,6 +1,6 @@
 # A tentative start an creating an API infrastructure
 * start crafting the API collaboration infrastructure
-* * caution collaborators that this infrastructue must always be ported on-shore before having access to production DefData
+* * caution collaborators that this infrastructue will always be ported on-shore and cannot have access to production DefData
 * * * 3rd party testing will be mandatory
 # Wip
 * start introducing Notion and Slack
