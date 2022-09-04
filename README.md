@@ -2,6 +2,7 @@
 * start crafting the API collaboration infrastructure
 * * caution collaborators that this infrastructue will always be ported on-shore and cannot have access to production DefData
 * * * 3rd party testing will be mandatory
+* multiple, small PlusCode developments should be encouraged.
 # Wip
 * start introducing Notion and Slack
 * * Can Slack be wrapped in Notion or vice-versa?
