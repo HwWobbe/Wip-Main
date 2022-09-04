@@ -1,4 +1,5 @@
 # A tentative start an creating an API infrastructure
+* this will likely have to be a rest-ful API
 * start crafting the API collaboration infrastructure
 * * caution collaborators that this infrastructue will always be ported on-shore and cannot have access to production DefData
 * * * 3rd party testing will be mandatory
