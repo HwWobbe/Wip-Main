@@ -10,7 +10,7 @@
 
 # Wip
 * start introducing Notion and Slack
-(( initially, focus on Notion
+** initially, focus on Notion
 * * Can Slack be wrapped in Notion or vice-versa?
 * A Public W(ork) i(n) p(rogress) that is being slowly bootstrapped.
 * * the fact that this is a public repository suggests that there could also be a Public Slack channel for AdManCa
