@@ -1,5 +1,6 @@
 * prepare for Tuesday's resumption in Toronto.
 # A tentative start an creating an API infrastructure
+
 * this will likely have to be a rest-ful API
 * start crafting the API collaboration infrastructure
 * * caution collaborators that this infrastructue will always be ported on-shore and cannot have access to production DefData
@@ -18,3 +19,6 @@
 * * seemed to work, so further enhancements will be transferrd into this environment as the finish their Private test cycles
 * -08-21: resuming this PR test
 * * the `Create new branch and start PR' option appeared as ...-patch-1 after a first edit.
+
+# API development conditions
+* ...
