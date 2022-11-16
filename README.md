@@ -1,4 +1,5 @@
-* prepare for Tuesday's resumption in Toronto.
+* prepare for resumption in Toronto.
+
 ## A tentative start an creating an API infrastructure
 
 * this will likely have to be a rest-ful API
@@ -9,7 +10,7 @@
 
 * link to the new ... page
 
-# Wip
+### Wip
 * start introducing Notion and Slack
 * * initially, focus on Notion
 * * Can Slack be wrapped in Notion or vice-versa?
