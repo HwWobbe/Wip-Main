@@ -8,4 +8,4 @@
 * * the `Create new branch and start PR' option appeared as ...-patch-1 after a first edit.
 
 ##
-review https://github.com/ergusto/xememex-style-guide
+* review https://github.com/ergusto/xememex-style-guide
