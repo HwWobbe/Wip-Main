@@ -1,8 +1,9 @@
-# 2022 Initiation
-* create PRs to make this the proper repo
-
+# 2023:
 ##
 * review https://github.com/ergusto/xememex-style-guide
+
+# 2022 Initiation
+* create PRs to make this the proper repo
 
 ## Wip-main
 * A Public W(ork) i(n) p(rogress) that is being slowly bootstrapped.
