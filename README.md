@@ -1,4 +1,5 @@
 * prepare for resumption
+  * add the other headers sections that are now standard
 
 ## A tentative start an creating an API infrastructure
 
