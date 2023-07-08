@@ -1,3 +1,8 @@
+## 2023 quickLinks
+...
+* ...
+* ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
+
 * prepare for resumption
   * add the other headers sections that are now standard
 
