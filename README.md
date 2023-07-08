@@ -1,4 +1,4 @@
-* prepare for resumption in Toronto.
+* prepare for resumption
 
 ## A tentative start an creating an API infrastructure
 
