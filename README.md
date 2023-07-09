@@ -3,12 +3,13 @@
 * ...
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
-* preparing for resumption
-  * experiment with:
-    * the 'Code' sidebar control
-    * also Edit , Preview , ...
-  * add the other headersH sections that are now standard
-  * [gitGocs/Start](https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax)
+## preparing for resumption
+* experiment with:
+  * the 'Code' sidebar control
+  * also Edit , Preview , ...
+* add the other headersH sections that are now standard
+* [gitGocs/Start](https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax)
+* craft and refine a PR
 
 ## A tentative start an creating an API infrastructure
 
