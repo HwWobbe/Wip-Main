@@ -21,7 +21,10 @@
 * link to the new ... page
 
 ### Wip
-* start introducing Notion and Slack
+* start by:
+  * exploring & introducing
+    * ChatApi plugins
+    * Notion and Slack
   * initially, focus on Notion
   * Can Slack be wrapped in Notion or vice-versa?
 * A Public W(ork) i(n) p(rogress) that is being slowly bootstrapped.
