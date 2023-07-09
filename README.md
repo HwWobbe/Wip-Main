@@ -14,8 +14,8 @@
 
 * this will likely have to be a rest-ful API
 * start crafting the API collaboration infrastructure
-* * caution collaborators that this infrastructue will always be ported on-shore and cannot have access to production DefData
-* * * 3rd party testing will be mandatory
+  * caution collaborators that this infrastructue will always be ported on-shore and cannot have access to production DefData
+    * 3rd party testing will be mandatory
 * multiple, small PlusCode developments should be encouraged.
 
 * link to the new ... page
