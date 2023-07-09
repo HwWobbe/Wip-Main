@@ -4,7 +4,7 @@
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
 * preparing for resumption
-  * experiment with the 'Code' control
+  * experiment with the 'Code' sidebar control
   * add the other headers sections that are now standard
   * ...
 
