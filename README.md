@@ -3,8 +3,10 @@
 * ...
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
-* prepare for resumption
+* preparing for resumption
+  * experiment with the 'Code' control
   * add the other headers sections that are now standard
+  * ...
 
 ## A tentative start an creating an API infrastructure
 
