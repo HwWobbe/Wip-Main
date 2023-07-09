@@ -8,7 +8,7 @@
     * the 'Code' sidebar control
     * also Edit , Preview , ...
   * add the other headersH sections that are now standard
-  * [...](https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax)
+  * [gitGocs/Start](https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax)
 
 ## A tentative start an creating an API infrastructure
 
