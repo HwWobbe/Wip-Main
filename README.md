@@ -1,6 +1,7 @@
 ## 2023 quickLinks
 ...
-* consider the value of having at least one PR ( and Comments ) for each repo 
+* consider the value of having at least one PR ( and Comments ) for each repo
+*   * this could be a scheduling aid
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
 ## preparing for resumption
