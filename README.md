@@ -1,7 +1,8 @@
 ## 2023 quickLinks
 ...
+* Dig should be a subset of AdManCa  (Division) of CSI (for now)
 * consider the value of having at least one PR ( and Comments ) for each repo
-*   * this could be a scheduling aid
+  * this could be a scheduling aid
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
 ## preparing for resumption
