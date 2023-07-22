@@ -1,6 +1,8 @@
 ## 2023 quickLinks
 ...
 * Dig should be a subset of AdManCa  (Division) of CSI (for now)
+* https://maps.canada.ca/czs/index-en.html
+  * should be a good readThis starting point
 * consider the value of having at least one PR ( and Comments ) for each repo
   * this could be a scheduling aid
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
