@@ -8,6 +8,9 @@
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
 ## preparing for resumption
+* Try to produce a rendered versiuon of GitHub content that can be distributed
+  * ...
+
 * experiment with:
   * the 'Code' sidebar control
   * also Edit , Preview , ...
