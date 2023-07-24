@@ -9,7 +9,7 @@
 
 ## preparing for resumption
 * Try to produce a rendered versiuon of GitHub content that can be distributed
-  * ...
+  * this may be as simple as a CutAndPaste of the View version
 
 * experiment with:
   * the 'Code' sidebar control
