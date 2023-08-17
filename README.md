@@ -10,6 +10,8 @@
 
 ## preparing for resumption
 * Try to produce a rendered versiuon of GitHub content that can be distributed
+  * review the particular advantages of ...md files
+    * consider the capabilities of various .md dialects
   * this may be as simple as a CutAndPaste of the View version
     * verify that the GitHub Wikis still allow a choice of Markup
       * could this be used as part of a Render/Edit Rinse/Repeat loop?
