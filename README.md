@@ -9,20 +9,25 @@
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
 ## enhancement considerations
+...
+
 * Try to produce a rendered versiuon of GitHub content that can be distributed
   * review the particular advantages of ...md files
     * consider the capabilities of various .md dialects
       * tw compatibility would be an advantage
         * Style compromizes for "simplest", common may be posible
+
   * this may be as simple as a CutAndPaste of the View version
     * verify that the GitHub Wikis still allow a choice of Markup
       * could this be used as part of a Render/Edit Rinse/Repeat loop?
+
 * Can GitHub outputs be
   * rendered as PDFs?
   * saved as Word docs that can be processed further by others?
     * AI styling should reduce the need for realAssistants
       * perhaps there is a need for a higher priority DevTools task?
-
+        * such a re-structuring may also help with shared MicroContent
+       
 * experiment with:
   * the 'Code' sidebar control
   * also Edit , Preview , ...
