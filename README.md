@@ -8,7 +8,7 @@
   * this could be a scheduling aid
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
-## preparing for resumption
+## enhancement considerations
 * Try to produce a rendered versiuon of GitHub content that can be distributed
   * review the particular advantages of ...md files
     * consider the capabilities of various .md dialects
