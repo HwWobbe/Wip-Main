@@ -19,7 +19,8 @@
       * could this be used as part of a Render/Edit Rinse/Repeat loop?
 * Can GitHub outputs be
   * rendered as PDFs?
-  * saved as Word docs that can be processed further by others? 
+  * saved as Word docs that can be processed further by others?
+    * AI styling should reduce the need for realAssistants
 
 * experiment with:
   * the 'Code' sidebar control
