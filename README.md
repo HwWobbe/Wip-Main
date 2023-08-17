@@ -1,6 +1,7 @@
 ## 2023 quickLinks
 ...
 * Dig should be a subset of AdManCa  (Division) of CSI (for now)
+  * consider the implications of the external "divisions" distinctions made my Empire
 * https://maps.canada.ca/czs/index-en.html
   * should be a good read as a starting point
 * consider the value of having at least one PR ( and Comments ) for each repo
