@@ -21,6 +21,7 @@
   * rendered as PDFs?
   * saved as Word docs that can be processed further by others?
     * AI styling should reduce the need for realAssistants
+      * perhaps there is a need for a higher priority DevTools task?
 
 * experiment with:
   * the 'Code' sidebar control
