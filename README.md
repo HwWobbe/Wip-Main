@@ -1,5 +1,7 @@
 ## 2023 quickLinks
 ...
+* PR an attached file
+  * ...
 * Dig should be a subset of AdManCa  (Division) of CSI (for now)
   * consider the implications of the external "divisions" distinctions made by Empire
     * how would these be integrated into our (merged) Notice To Reader statements?
