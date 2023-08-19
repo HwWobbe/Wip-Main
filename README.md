@@ -5,10 +5,6 @@
     * how would these be integrated into our (merged) Notice To Reader statements?
       * what are the Tax implications?
         * a 50%+ position should still allow for consolidated statements
-* https://maps.canada.ca/czs/index-en.html
-  * should be a good read as a starting point
-* consider the value of having at least one PR ( and Comments ) for each repo
-  * this could be a scheduling aid
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
 ## enhancement considerations
