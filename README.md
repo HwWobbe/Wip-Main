@@ -10,6 +10,8 @@
       * what are the Tax implications?
         * a 50%+ position should still allow for consolidated statements
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
+* note the drift away from the API focus.
+  * this could lead to a refactoring/restructuring
 
 ## enhancement considerations
 ...
