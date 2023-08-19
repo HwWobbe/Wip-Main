@@ -14,7 +14,7 @@
 ## enhancement considerations
 ...
 
-* Try to produce a rendered versiuon of GitHub content that can be distributed
+* Try to produce a rendered version of GitHub content that can be distributed
   * review the particular advantages of ...md files
     * consider the capabilities of various .md dialects
       * tw compatibility would be an advantage
