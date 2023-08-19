@@ -1,7 +1,10 @@
 ## 2023 quickLinks
 ...
 * Dig should be a subset of AdManCa  (Division) of CSI (for now)
-  * consider the implications of the external "divisions" distinctions made my Empire
+  * consider the implications of the external "divisions" distinctions made by Empire
+    * how would these be integrated into our (merged) Notice To Reader statements?
+      * what are the Tax implications?
+        * a 50%+ position should still allow for consolidated statements
 * https://maps.canada.ca/czs/index-en.html
   * should be a good read as a starting point
 * consider the value of having at least one PR ( and Comments ) for each repo
