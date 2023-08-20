@@ -1,5 +1,7 @@
 ## 2023 quickLinks
 ...
+
+* try to integrate the RstT VeryTrue concepts
 * PR an attached file
   * ...
 * when should folders be added to this repo?
