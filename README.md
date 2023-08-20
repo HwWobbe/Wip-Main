@@ -3,10 +3,10 @@
 
 * try to integrate the RstT VeryTrue concepts
   * this is likewly a duplicated item
+
 * PR an attached file
   * ...
-* when should folders be added to this repo?
-  * ...
+
 * Dig should be a subset of AdManCa  (Division) of CSI (for now)
   * consider the implications of the external "divisions" distinctions made by Empire
     * how would these be integrated into our (merged) Notice To Reader statements?
@@ -43,6 +43,9 @@
 * extend PR capabilities
   * ...
 * https://giscus.app/
+
+* how should folders be added to a repo?
+  * ...
 
 ## A tentative start an creating an API infrastructure
 
