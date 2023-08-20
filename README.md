@@ -2,6 +2,7 @@
 ...
 
 * try to integrate the RstT VeryTrue concepts
+  * let Rst know when this is done
 * PR an attached file
   * ...
 * when should folders be added to this repo?
