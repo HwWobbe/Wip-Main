@@ -7,6 +7,9 @@
 * PR an attached file
   * ...
 
+* Gist or Profile seems to be a fundamental initial choice
+  * https://gist.github.com/HwWobbe
+
 * Dig should be a subset of AdManCa  (Division) of CSI (for now)
   * consider the implications of the external "divisions" distinctions made by Empire
     * how would these be integrated into our (merged) Notice To Reader statements?
