@@ -2,6 +2,7 @@
 ...
 
 * try to integrate the RstT VeryTrue concepts
+  * this is likewly a duplicated item
 * PR an attached file
   * ...
 * when should folders be added to this repo?
