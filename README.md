@@ -41,7 +41,8 @@
   * also Edit , Preview , ...
 * add the other headersH sections that are now standard
 * [gitGocs/Start](https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax)
-* craft and refine a PR
+* extend PR capabilities
+  * ...
 * https://giscus.app/
 
 ## A tentative start an creating an API infrastructure
