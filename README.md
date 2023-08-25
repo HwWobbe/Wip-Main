@@ -1,6 +1,7 @@
 ## 2023 quickLinks
 ...
 
+* RichardC focus during -09-
 * try to integrate the RstT VeryTrue concepts
   * this is likely a duplicated item
 
