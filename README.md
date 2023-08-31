@@ -1,18 +1,28 @@
 ## 2023 quickLinks
 ...
 
+* RichardC focus during -09-
+  * finalize offer
+    * perhaps just a registration Portal
+      * test the abilitity to do "targeted revisions based on "stale" data
+        * this should be baseec on GeoSpatial capabilities
+          * just a Yes/No response - Privacy - registered user Alerts  re change - like Business Registration
+            * MailFail notification feed 
 * try to integrate the RstT VeryTrue concepts
   * let Rst know when this is done
-* PR an attached file
-  * ...
+
 * when should folders be added to this repo?
-  * ...
+  * this is likely a duplicated item
+    * why is this spacing inconsistent?
+* PR - with an attached file
+  * try using MailFail
+* Gist or Profile seems to be a fundamental initial choice
+  * https://gist.github.com/HwWobbe
 * Dig should be a subset of AdManCa  (Division) of CSI (for now)
   * consider the implications of the external "divisions" distinctions made by Empire
     * how would these be integrated into our (merged) Notice To Reader statements?
       * what are the Tax implications?
         * a 50%+ position should still allow for consolidated statements
-* ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 * note the drift away from the API focus.
   * this could lead to a refactoring/restructuring
 
@@ -41,8 +51,12 @@
   * also Edit , Preview , ...
 * add the other headersH sections that are now standard
 * [gitGocs/Start](https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax)
-* craft and refine a PR
+* extend PR capabilities
+  * ...
 * https://giscus.app/
+
+* how should folders be added to a repo?
+  * ...
 
 ## A tentative start an creating an API infrastructure
 
@@ -55,18 +69,23 @@
 * link to the new ... page
 
 ### Wip
-* start by:
-  * exploring & introducing
-    * ChatApi plugins
-    * Notion and Slack
-  * initially, focus on Notion
-  * Can Slack be wrapped in Notion or vice-versa?
+#### start by:
+
+* exploring & introducing
+  * ChatApi plugins
+  * Notion and Slack
+* initially, focus on Notion
+* Can Slack be wrapped in Notion or vice-versa?
+
 * A Public W(ork) i(n) p(rogress) that is being slowly bootstrapped.
   * the fact that this is a public repository suggests that there could also be a Public Slack channel for AdManCa
     * should AdManCa and DigCa be kept separated?
   * seemed to work, so further enhancements will be transferrd into this environment as the finish their Private test cycles
+
 * -08-21: resuming this PR test
   * the `Create new branch and start PR' option appeared as ...-patch-1 after a first edit.
+
+* ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
 
 # API development conditions
 * ...
