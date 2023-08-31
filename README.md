@@ -11,8 +11,8 @@
 * try to integrate the RstT VeryTrue concepts
   * this is likely a duplicated item
 
-* PR an attached file
-  * ...
+* PR - with an attached file
+  * try using MailFail
 
 * Gist or Profile seems to be a fundamental initial choice
   * https://gist.github.com/HwWobbe
