@@ -7,7 +7,7 @@
       * test the abilitity to do "targeted revisions based on "stale" data
         * this should be baseec on GeoSpatial capabilities
           * just a Yes/No response - Privacy - registered user Alerts  re change - like Business Registration
-            * MailFail notification feed 
+            * MailFail notification feed can be generated
 * try to integrate the RstT VeryTrue concepts
   * this is likely a duplicated item
 
