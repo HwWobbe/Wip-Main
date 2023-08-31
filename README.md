@@ -10,11 +10,12 @@
             * MailFail notification feed 
 * try to integrate the RstT VeryTrue concepts
   * this is likely a duplicated item
+    * why is this spacing inconsistent?
+
 * PR - with an attached file
   * try using MailFail
 * Gist or Profile seems to be a fundamental initial choice
   * https://gist.github.com/HwWobbe
-    * why is this spacing inconsistent?
 
 * Dig should be a subset of AdManCa  (Division) of CSI (for now)
   * consider the implications of the external "divisions" distinctions made by Empire
