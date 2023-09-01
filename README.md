@@ -1,5 +1,9 @@
 # 2023:
 ##
+* refine ExportImport methods
+  * consider PsH based solutions for now
+  * review the new Git desktop capabilities
+  * review Git tutorials for Build refinements
 * review https://github.com/ergusto/xememex-style-guide
 
 # 2022 Initiation
