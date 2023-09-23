@@ -14,6 +14,8 @@
     * initially this could include DPL & JCL and Jeremy
       * check with CivicAtlass about their uses of GIT
    * Ls may see this as a step towrds MailFail - thiat might advance c-suite goals - in AdManCa
+     * this may, at least, result in prototypes of Management / Board  interactions
+
 * try to integrate the RstT VeryTrue concepts
   * let Rst know when this is done
 
