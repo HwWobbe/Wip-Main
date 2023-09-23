@@ -3,11 +3,13 @@
 
 * when should folders be added to this repo?
   * this is likely a duplicated item
-    * why is this spacing inconsistent?
+
 * PR - with an attached file
   * try using MailFail
-* Gist or Profile seems to be a fundamental initial choice
+
+* Gist or Profile is a fundamental initial choice
   * https://gist.github.com/HwWobbe
+
 * Dig should be a subset of AdManCa  (Division) of CSI (for now)
   * consider the implications of the external "divisions" distinctions made by Empire
     * how would these be integrated into our (merged) Notice To Reader statements?
