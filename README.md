@@ -1,10 +1,9 @@
 ## 2023 quickLinks
 ...
-
 * when should folders be added to this repo?
   * this is likely a duplicated item
 * PR - with an attached file
-  * try using MailFail
+  * try using MailFail as a learning/focus Project with CivicAtlas
 
 * Gist or Profile is a fundamental initial choice
   * https://gist.github.com/HwWobbe
