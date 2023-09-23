@@ -1,6 +1,9 @@
 ## 2023 quickLinks
 ...
 
+* create a private repo to test access permissions further
+
+## CivicAtlas
 * Civic Atlas may provide information that can be used to assess internal Referential Integrity
   * this could lead to the development of a Trust for specific, large transactions
     * consider the use of floor limits (prior to debit cards) in Merchant Credit Card processing
