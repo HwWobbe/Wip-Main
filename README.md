@@ -5,7 +5,8 @@
   * this could lead to the development of a Trust for specific, large transactions
     * consider the use of floor limits (prior to debit cards) in Merchant Credit Card processing
   * consider re-purposing this repo for use with CivicAtlas
-    * initially this could include DPL and JCL
+    * a joint use for CivivAtlas and GeoSpatial TW could be beneficial
+    * initially this could include DPL & JCL and Jeremy
       * check with CivicAtlass about their usees of GIT
 * try to integrate the RstT VeryTrue concepts
   * let Rst know when this is done
