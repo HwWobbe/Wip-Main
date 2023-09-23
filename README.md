@@ -1,6 +1,22 @@
 ## 2023 quickLinks
 ...
 
+* when should folders be added to this repo?
+  * this is likely a duplicated item
+    * why is this spacing inconsistent?
+* PR - with an attached file
+  * try using MailFail
+* Gist or Profile seems to be a fundamental initial choice
+  * https://gist.github.com/HwWobbe
+* Dig should be a subset of AdManCa  (Division) of CSI (for now)
+  * consider the implications of the external "divisions" distinctions made by Empire
+    * how would these be integrated into our (merged) Notice To Reader statements?
+      * what are the Tax implications?
+        * a 50%+ position should still allow for consolidated statements
+* note the drift away from the API focus.
+  * this could lead to a refactoring/restructuring
+
+## CivicAtlas
 * Civic Atlas may provide information that can be used to assess internal Referential Integrity
   * this could lead to the development of a Trust for specific, large transactions
     * consider the use of floor limits (prior to debit cards) in Merchant Credit Card processing
@@ -19,20 +35,6 @@
 * try to integrate the RstT VeryTrue concepts
   * let Rst know when this is done
 
-* when should folders be added to this repo?
-  * this is likely a duplicated item
-    * why is this spacing inconsistent?
-* PR - with an attached file
-  * try using MailFail
-* Gist or Profile seems to be a fundamental initial choice
-  * https://gist.github.com/HwWobbe
-* Dig should be a subset of AdManCa  (Division) of CSI (for now)
-  * consider the implications of the external "divisions" distinctions made by Empire
-    * how would these be integrated into our (merged) Notice To Reader statements?
-      * what are the Tax implications?
-        * a 50%+ position should still allow for consolidated statements
-* note the drift away from the API focus.
-  * this could lead to a refactoring/restructuring
 
 ## enhancement considerations
 ...
