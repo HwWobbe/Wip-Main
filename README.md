@@ -6,6 +6,8 @@
     * consider the use of floor limits (prior to debit cards) in Merchant Credit Card processing
   * consider re-purposing this repo for use with CivicAtlas
     * a joint use for CivivAtlas and GeoSpatial TW could be beneficial
+      * separate repos will eventually be needed.
+        * TW documentation contributions are a logical first step.
     * initially this could include DPL & JCL and Jeremy
       * check with CivicAtlass about their usees of GIT
 * try to integrate the RstT VeryTrue concepts
