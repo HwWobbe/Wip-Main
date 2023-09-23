@@ -13,6 +13,8 @@
     * how would these be integrated into our (merged) Notice To Reader statements?
       * what are the Tax implications?
         * a 50%+ position should still allow for consolidated statements
+   * how is this impactefd by the Amalgamation
+     * ... 
 * reverse the drift away from the API focus.
   * this could lead to a refactoring/restructuring
 
