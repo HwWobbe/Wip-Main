@@ -1,6 +1,10 @@
 ## 2023 quickLinks
 ...
 
+* Civic Atlas may provide information that can be used to assess internal Referential Integrity
+  * this could lead to the development of a Trust for specific, large transactions
+    * consider the use of floor limits (prior to debit cards) in Merchant Credit Card processing
+
 * try to integrate the RstT VeryTrue concepts
   * let Rst know when this is done
 
