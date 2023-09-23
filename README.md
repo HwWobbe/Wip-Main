@@ -8,6 +8,9 @@
     * a joint use for CivivAtlas and GeoSpatial TW could be beneficial
       * separate repos will eventually be needed.
         * TW documentation contributions are a logical first step.
+    * CivicAtlas (CA & Ca) provides extensive APIs
+      * assess this capability in joint contexts (perhaps with Cities)
+    * this may lead to a free-minum model
     * initially this could include DPL & JCL and Jeremy
       * check with CivicAtlass about their usees of GIT
 * try to integrate the RstT VeryTrue concepts
