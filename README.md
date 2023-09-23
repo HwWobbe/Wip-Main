@@ -12,7 +12,8 @@
       * assess this capability in joint contexts (perhaps with Cities)
     * this may lead to a free-minum model
     * initially this could include DPL & JCL and Jeremy
-      * check with CivicAtlass about their usees of GIT
+      * check with CivicAtlass about their uses of GIT
+   * Ls may see this as a step towrds MailFail - thiat might advance c-suite goals - in AdManCa
 * try to integrate the RstT VeryTrue concepts
   * let Rst know when this is done
 
