@@ -20,6 +20,8 @@
 * reverse the drift away from the API focus.
   * this could lead to a refactoring/restructuring
 
+<hr>
+
 ## CivicAtlas
 * Civic Atlas may provide information that can be used to assess internal Referential Integrity
   * this could lead to the development of a Trust for specific, large transactions
