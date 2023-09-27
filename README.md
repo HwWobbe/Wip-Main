@@ -2,6 +2,7 @@
 These quickLinks are for the convenience of the Author(s).  As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia quidelines.
 
 * https://github.com/Data-Integrity-Group/Wip#civicatlas
+  * these QLs can span repos in order to rationalize relative Priorities
 
 * when should folders be added to this repo?
   * Text block creation and Permission Management are likely to be the determining forces.
