@@ -7,6 +7,7 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
 * when should folders be added to this repo?
   * Text block creation and Permission Management are likely to be the determining forces.
   * this may be a duplicated item
+
 * PR - with an attached file
   * try using MailFail as a learning/focus Project with CivicAtlas
 
@@ -20,6 +21,7 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
         * a 50%+ position should still allow for consolidated statements
    * how is this impactefd by the Amalgamation
      * ... 
+
 * reverse the drift away from the API focus.
   * this could lead to a refactoring/restructuring
 
