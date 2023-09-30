@@ -25,6 +25,8 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
 * reverse the drift away from the API focus.
   * this could lead to a refactoring/restructuring
 
+* create a private repo to test access permissions further
+
 <hr>
 
 ## CivicAtlas
