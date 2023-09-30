@@ -1,7 +1,33 @@
 ## 2023 quickLinks
-...
+These quickLinks are for the convenience of the Author(s).  As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia quidelines.
+
+* https://github.com/Data-Integrity-Group/Wip#civicatlas
+  * these QLs can span repos in order to rationalize relative Priorities
+
+* when should folders be added to this repo?
+  * Text block creation and Permission Management are likely to be the determining forces.
+  * this may be a duplicated item
+
+* PR - with an attached file
+  * try using MailFail as a learning/focus Project with CivicAtlas
+
+* Gist or Profile is a fundamental initial choice
+  * https://gist.github.com/HwWobbe
+
+* Dig should be a subset of AdManCa  (Division) of CSI (for now)
+  * consider the implications of the external "divisions" distinctions made by Empire
+    * how would these be integrated into our (merged) Notice To Reader statements?
+      * what are the Tax implications?
+        * a 50%+ position should still allow for consolidated statements
+   * how is this impactefd by the Amalgamation
+     * ... 
+
+* reverse the drift away from the API focus.
+  * this could lead to a refactoring/restructuring
 
 * create a private repo to test access permissions further
+
+<hr>
 
 ## CivicAtlas
 * Civic Atlas may provide information that can be used to assess internal Referential Integrity
@@ -22,20 +48,6 @@
 * try to integrate the RstT VeryTrue concepts
   * let Rst know when this is done
 
-* when should folders be added to this repo?
-  * this is likely a duplicated item
-    * why is this spacing inconsistent?
-* PR - with an attached file
-  * try using MailFail
-* Gist or Profile seems to be a fundamental initial choice
-  * https://gist.github.com/HwWobbe
-* Dig should be a subset of AdManCa  (Division) of CSI (for now)
-  * consider the implications of the external "divisions" distinctions made by Empire
-    * how would these be integrated into our (merged) Notice To Reader statements?
-      * what are the Tax implications?
-        * a 50%+ position should still allow for consolidated statements
-* note the drift away from the API focus.
-  * this could lead to a refactoring/restructuring
 
 ## enhancement considerations
 ...
