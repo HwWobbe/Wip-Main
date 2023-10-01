@@ -4,6 +4,7 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
 * https://github.com/Data-Integrity-Group/Wip#civicatlas
   * these QLs can span repos in order to rationalize relative Priorities
     * a merged Priorities list likely has more value
+      * try creating a separate file that can be attached to a PR
 
 * when should folders be added to this repo?
   * Text block creation and Permission Management are likely to be the determining forces.
