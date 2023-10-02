@@ -7,7 +7,7 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
 
 * when should folders be added to this repo?
   * Text block creation and Permission Management are likely to be the determining forces.
-  * this may be a duplicated item
+    * this may be a duplicated item
 
 * PR - with an attached file
   * try using MailFail as a learning/focus Project with CivicAtlas
