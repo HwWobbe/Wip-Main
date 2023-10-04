@@ -5,6 +5,7 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
   * these QLs can span repos in order to rationalize relative Priorities
     * a merged Priorities list likely has more value
       * does this edit pattern resolve the indetationSpacing isue?
+        * it did seem to
 
 * when should folders be added to this repo?
   * Text block creation and Permission Management are likely to be the determining forces.
