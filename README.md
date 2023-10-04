@@ -84,7 +84,7 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
 * how should folders be added to a repo?
   * ...
 
-## A tentative start an creating an API infrastructure
+## A tentative start at creating an API infrastructure
 
 * this will likely have to be a rest-ful API
 * start crafting the API collaboration infrastructure
