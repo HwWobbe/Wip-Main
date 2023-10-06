@@ -13,6 +13,8 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
 
 * PR - with an attached file
   * try using MailFail as a learning/focus Project with CivicAtlas
+    * invested Public data like Municipal Addresses should be capable of forming Aliases to LaLoAl strings
+      * it may even be effective to encode these as short-URLs that can then be incorporated into QrCodes
 
 * Gist or Profile is a fundamental initial choice
   * https://gist.github.com/HwWobbe
