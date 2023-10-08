@@ -5,6 +5,8 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
   * these QLs can span repos in order to rationalize relative Priorities
     * a merged Priorities list likely has more value
 
+* https://github.com/Data-Integrity-Group/APIdevelopmentConsiderations
+
 * when should more folders be added to this repo?
   * Text block creation and Permission Management are likely to be the determining forces.
     * this may be a duplicated item
@@ -85,6 +87,10 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
 * how should folders be added to a repo?
   * ...
 
+
+# APIdevelopmentConsiderations
+* ...
+
 ## A tentative start at creating an API infrastructure
 
 * this will likely have to be a rest-ful API
@@ -113,6 +119,3 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
   * the `Create new branch and start PR' option appeared as ...-patch-1 after a first edit.
 
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
-
-# API development conditions
-* ...
