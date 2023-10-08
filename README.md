@@ -5,7 +5,7 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
   * these QLs can span repos in order to rationalize relative Priorities
     * a merged Priorities list likely has more value
 
-* https://github.com/Data-Integrity-Group/APIdevelopmentConsiderations
+* https://github.com/Data-Integrity-Group/Wip#APIdevelopmentConsiderations
 
 * when should more folders be added to this repo?
   * Text block creation and Permission Management are likely to be the determining forces.
