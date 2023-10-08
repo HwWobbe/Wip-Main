@@ -3,8 +3,7 @@ These quickLinks are for the convenience of the Author(s).
 
 As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia quidelines.
 
-These QLs can span repos in order to rationalize relative Priorities
-* a merged Priorities list likely has more value
+These QLs can span repos in order to rationalize relative Priorities.  (a merged Priorities list likely has more value)
 
 * https://github.com/Data-Integrity-Group/Wip#civicatlas
 * https://github.com/Data-Integrity-Group/Wip#APIdevelopmentConsiderations
