@@ -61,8 +61,6 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
       * tw compatibility would be an advantage
         * Style compromizes for "simplest", common may be posible
 
-
-## preparing for resumption
 * Try to produce a rendered version of GitHub content that can be distributed
   * this may be as simple as a CutAndPaste of the View version
     * verify that the GitHub Wikis still allow a choice of Markup
