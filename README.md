@@ -39,6 +39,7 @@ These QLs can span repos in order to rationalize relative Priorities.  (a merged
 * Civic Atlas may provide information that can be used to assess internal Referential Integrity
   * this could lead to the development of a Trust for specific, large transactions
     * consider the use of floor limits (prior to debit cards) in Merchant Credit Card processing
+      * this may fit well into a new AppContext combining YotiD and CivicAtlasD
   * consider re-purposing this repo for use with CivicAtlas
     * a joint use for CivivAtlas and GeoSpatial TW could be beneficial
       * separate repos will eventually be needed.
