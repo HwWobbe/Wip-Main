@@ -5,6 +5,7 @@ As content matures, Author links will be replaced by convenient Reader links.  A
 
 These QLs can span repos in order to rationalize relative Priorities.  (a merged Priorities list likely has more value)
 
+* https://github.com/Data-Integrity-Group/Wip#CivicAtlas.md
 * https://github.com/Data-Integrity-Group/Wip#civicatlas
 * https://github.com/Data-Integrity-Group/Wip#APIdevelopmentConsiderations
 
