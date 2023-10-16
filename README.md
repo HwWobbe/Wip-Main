@@ -1,16 +1,26 @@
 ## 2023 quickLinks
-These quickLinks are for the convenience of the Author(s).  As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia quidelines.
+These quickLinks are for the convenience of the Author(s).  
 
 * https://github.com/Data-Integrity-Group/Wip#civicatlas
   * these QLs can span repos in order to rationalize relative Priorities
     * ...
 
-* when should folders be added to this repo?
+As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia and the TenChapters ( 0-9 ) quidelines.
+
+These QLs can span repos in order to rationalize relative Priorities.  (a merged Priorities list likely has more value)
+
+* https://github.com/Data-Integrity-Group/Wip#CivicAtlasQl
+* https://github.com/Data-Integrity-Group/Wip#civicatlas.md
+* https://github.com/Data-Integrity-Group/Wip#APIdevelopmentConsiderations
+
+* when should more folders be added to this repo?
   * Text block creation and Permission Management are likely to be the determining forces.
-  * this may be a duplicated item
+    * this may be a duplicated item
 
 * PR - with an attached file
   * try using MailFail as a learning/focus Project with CivicAtlas
+    * invested Public data like Municipal Addresses should be capable of forming Aliases to LaLoAl strings
+      * it may even be effective to encode these as short-URLs that can then be incorporated into QrCodes
 
 * Gist or Profile is a fundamental initial choice
   * https://gist.github.com/HwWobbe
@@ -30,10 +40,14 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
 
 <hr>
 
-## CivicAtlas
+## CivicAtlasQl
+* this topic is growing to a size that warrants a new file
+  * where?
 * Civic Atlas may provide information that can be used to assess internal Referential Integrity
   * this could lead to the development of a Trust for specific, large transactions
     * consider the use of floor limits (prior to debit cards) in Merchant Credit Card processing
+      * this may fit well into a new AppContext combining YotiD and CivicAtlasD
+        * ...rveiew DataGraph > KnowledgeGraph > InformationGraph
   * consider re-purposing this repo for use with CivicAtlas
     * a joint use for CivivAtlas and GeoSpatial TW could be beneficial
       * separate repos will eventually be needed.
@@ -59,6 +73,7 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
       * tw compatibility would be an advantage
         * Style compromizes for "simplest", common may be posible
 
+* Try to produce a rendered version of GitHub content that can be distributed
   * this may be as simple as a CutAndPaste of the View version
     * verify that the GitHub Wikis still allow a choice of Markup
       * could this be used as part of a Render/Edit Rinse/Repeat loop?
@@ -82,7 +97,11 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
 * how should folders be added to a repo?
   * ...
 
-## A tentative start an creating an API infrastructure
+
+# APIdevelopmentConsiderations
+* ...
+
+## A tentative start at creating an API infrastructure
 
 * this will likely have to be a rest-ful API
 * start crafting the API collaboration infrastructure
@@ -110,6 +129,3 @@ These quickLinks are for the convenience of the Author(s).  As content matures, 
   * the `Create new branch and start PR' option appeared as ...-patch-1 after a first edit.
 
 * ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
-
-# API development conditions
-* ...
