@@ -59,6 +59,7 @@ These QLs can span repos in order to rationalize relative Priorities.  (a merged
       * check with CivicAtlass about their uses of GIT
    * Ls may see this as a step towrds MailFail - thiat might advance c-suite goals - in AdManCa
      * this may, at least, result in prototypes of Management / Board  interactions
+  * Consider this as a DueDiligence exercise shared by Buyer & Seller.
 
 * try to integrate the RstT VeryTrue concepts
   * let Rst know when this is done
