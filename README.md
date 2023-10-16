@@ -1,6 +1,10 @@
 ## 2023 quickLinks
 These quickLinks are for the convenience of the Author(s).  
 
+* https://github.com/Data-Integrity-Group/Wip#civicatlas
+  * these QLs can span repos in order to rationalize relative Priorities
+    * ...
+
 As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia and the TenChapters ( 0-9 ) quidelines.
 
 These QLs can span repos in order to rationalize relative Priorities.  (a merged Priorities list likely has more value)
