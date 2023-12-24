@@ -1,7 +1,7 @@
 ## 2023 quickLinks
-* https://github.com/Data-Integrity-Group/Wip#civicatlas
-  * these QLs can span repos in order to rationalize relative Priorities
-    * ...
+- https://github.com/Data-Integrity-Group/Wip#civicatlas
+  - these QLs can span repos in order to rationalize relative Priorities
+    - this shouild work even with a mix of Private repos
 
 ### These quickLinks are for the convenience of the Author(s).  
 
