@@ -1,3 +1,8 @@
+https://github.com/HwWobbe/WipHww?tab=readme-ov-file#2024-quicklinks
+
+## 2024 quickLinks
+- ...
+
 ## 2023 quickLinks
 - https://github.com/Data-Integrity-Group/Wip#civicatlas
   - these QLs can span repos in order to rationalize relative Priorities
