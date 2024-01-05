@@ -1,4 +1,3 @@
-https://github.com/HwWobbe/WipHww?tab=readme-ov-file#2024-quicklinks
 
 ## 2024 quickLinks
 - ...
