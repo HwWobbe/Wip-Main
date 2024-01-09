@@ -3,7 +3,7 @@
 
 ## 2024 quickLinks
 - Privacy and Promises ( PaP ) are going tp be a major issue even for AdManOn
-  - ...
+  - more ...shared folders will be needed
 
 ## 2023 quickLinks
 - https://github.com/Data-Integrity-Group/Wip#civicatlas
