@@ -9,7 +9,7 @@
     - try building these with Gartha
 - StyleH tests:
 
-  .. .. ## StyleTest(s): ...
+  ## StyleTest(s): ...
   
 <hr>
 
