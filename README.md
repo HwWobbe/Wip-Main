@@ -10,7 +10,10 @@
 - StyleH tests:
 
   ## StyleTest(s): ...
-  
+  - this shows ...
+    - further indentation potential
+      - it may be time to RtM for this flavor of MarkDown (mermaid?)
+
 <hr>
 
 ## 2023 quickLinks
