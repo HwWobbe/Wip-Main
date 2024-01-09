@@ -7,6 +7,8 @@
     - rely on Lz for this initial work
   - re-emphasize: ...Tt ...Tn ...Tp for the development of the RmT tiles
     - try building these with Gartha
+- https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#civicatlasql
+
 - StyleH tests:
 
   ## StyleTest(s): ...
