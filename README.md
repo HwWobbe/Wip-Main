@@ -4,8 +4,11 @@
 ## 2024 quickLinks
 - Privacy and Promises ( PaP ) are going tp be a major issue even for AdManOn
   - more ...shared folders will be needed
+    - rely on Lz for this initial work
+  - re-emphasize: ...Tt ...Tn ...Tp for the development of the RmT tiles
+    - try building these with Gartha
 
-## 2023 quickLinks
+    ## 2023 quickLinks
 - https://github.com/Data-Integrity-Group/Wip#civicatlas
   - these QLs can span repos in order to rationalize relative Priorities
     - this shouild work even with a mix of Private repos [ test this ]
