@@ -91,6 +91,8 @@ These QLs can span repos in order to rationalize relative Priorities.  (a merged
 ## enhancement considerations
 ...
 
+* consider the use of alternate media types
+  * perhaps PDFs
 * Produce a rendered version of GitHub content that can be distributed
   * review the particular advantages of ...md files
     * consider the capabilities of various .md dialects
