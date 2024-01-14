@@ -3,6 +3,7 @@
 
 ## 2024 quickLinks
 - Privacy and Promises ( PaP ) are going tp be a major issue even for AdManOn
+  - LsH to plan for this
   - more ...shared folders will be needed
     - rely on Lz for this initial work
   - re-emphasize: ...Tt ...Tn ...Tp for the development of the RmT tiles
