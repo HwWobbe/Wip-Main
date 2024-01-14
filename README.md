@@ -1,7 +1,30 @@
+- https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#2024-quicklinks
+- There may need to be separate Projects at least for CurbSide and AdManCa.
+- Its time to resolve some of the
+
+## 2024 quickLinks
+- Privacy and Promises ( PaP ) are going tp be a major issue even for AdManOn
+  - LsH to plan for this
+  - more ...shared folders will be needed
+    - rely on Lz for this initial work
+  - re-emphasize: ...Tt ...Tn ...Tp for the development of the RmT tiles
+    - try building these with Gartha
+- https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#civicatlasql
+
+- StyleH tests:
+
+  ## StyleTest(s): ...
+  - start with the CurbSide style support
+  - this shows ...
+    - further indentation potential
+      - it may be time to RtM for this flavor of MarkDown (mermaid?)
+
+<hr>
+
 ## 2023 quickLinks
 - https://github.com/Data-Integrity-Group/Wip#civicatlas
   - these QLs can span repos in order to rationalize relative Priorities
-    -  ...
+    - this shouild work even with a mix of Private repos [ test this ]
 
 ### These quickLinks are for the convenience of the Author(s).  
 
