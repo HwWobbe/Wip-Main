@@ -26,6 +26,10 @@
     - further indentation potential
       - it may be time to RtM for this flavor of MarkDown (mermaid?)
 
+### modify these qLinks to terminate / Audience
+...
+  - ...
+
 <hr>
 
 ## 2023 quickLinks
