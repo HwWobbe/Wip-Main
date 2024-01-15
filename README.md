@@ -11,7 +11,7 @@
           - consider Eric's new image tool - Who could best populate that?
             - Ajo might be able to help build an example of the documentation that could then be tested by Penny
   - suggest Penny and I do a call
-    - itand a meeting now that I know more about travel
+    - and a meeting now that I know more about travel
   - more ...shared folders will be needed
     - rely on Lz for this initial work
   - re-emphasize: ...Tt ...Tn ...Tp for the development of the RmT tiles
