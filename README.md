@@ -26,9 +26,9 @@
     - further indentation potential
       - it may be time to RtM for this flavor of MarkDown (mermaid?)
 
-### modify these qLinks to terminate / Audience
+### Modify these qLinks to terminate / Audience
 ...
-  - ...
+  - test with LsH - perhaps as early as a meToDrive Teams session
 
 <hr>
 
