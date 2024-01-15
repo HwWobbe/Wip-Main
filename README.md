@@ -8,6 +8,7 @@
     - share access to the vaious systems that are plart of the emerging environment
       - start with the CurbSide versions that contain the new/t. reports
         - demo howTo use the Project views
+          - consider Eric's new image tool - Who could best populate that?
   - more ...shared folders will be needed
     - rely on Lz for this initial work
   - re-emphasize: ...Tt ...Tn ...Tp for the development of the RmT tiles
