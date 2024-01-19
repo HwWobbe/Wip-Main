@@ -1,6 +1,6 @@
 - https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#2024-quicklinks
 - There may need to be separate Projects at least for CurbSide and AdManCa.
-- Its time to resolve some of the
+  -  AdManOn & AdManYyz need to be planned
 
 ## 2024 quickLinks
 - Privacy and Promises ( PaP ) are going tp be a major issue even for AdManOn
