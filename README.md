@@ -5,7 +5,8 @@
       - consider 3rd party FullStack work - but only if it adds value by Hosting Data - ideally in SqLite
         - Compare the $ rates
         - Jr "OS" work may need to be gated by Demo pressures
- 
+   - link to Dg: ( Deb: ) topics that are related and can then be expanded better in that environment.
+
 ## 2024 quickLinks
 - Privacy and Promises ( PaP ) are going tp be a major issue even for AdManOn
   - LsH to plan for this
