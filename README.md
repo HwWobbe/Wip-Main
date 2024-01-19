@@ -5,7 +5,7 @@
 ## 2024 quickLinks
 - Privacy and Promises ( PaP ) are going tp be a major issue even for AdManOn
   - LsH to plan for this
-    - share access to the vaious systems that are plart of the emerging environment
+    - share access to the various systems that are plart of the emerging environment
       - start with the CurbSide versions that contain the new/t. reports
         - demo howTo use the Project views
           - consider Eric's new image tool - Who could best populate that?
