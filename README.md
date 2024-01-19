@@ -10,7 +10,9 @@
         - more efficient
         - more secure ( restricted access / permissions )
           - TwLinks may be a step towards security since the linkages could only be easily available via Tw or Dg: ( Di: ) bookmarks
-  
+- ...
+
+ 
 ## 2024 quickLinks
 - Privacy and Promises ( PaP ) are going tp be a major issue even for AdManOn
   - LsH to plan for this
