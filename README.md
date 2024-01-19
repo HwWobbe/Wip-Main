@@ -6,9 +6,10 @@
         - Compare the $ rates
         - Jr "OS" work may need to be gated by Demo pressures
     - link to Dg: ( Deb: - since .De: is germany ) topics that are related and can then be expanded better in that environment.
-      - thse might produce documentation stubs that can the be gateways ti repositories that are:
+      - these might produce documentation stubs that can the be gateways ti repositories that are:
         - more efficient
         - more secure ( restricted access / permissions )
+          - TwLinks may be a step towards security since the linkages could only be easily available via Tw or Dg: ( Di: ) bookmarks
   
 ## 2024 quickLinks
 - Privacy and Promises ( PaP ) are going tp be a major issue even for AdManOn
