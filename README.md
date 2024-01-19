@@ -3,6 +3,8 @@
   -  AdManOn & AdManYyz need to be planned
     - start this within the existing Projects, but plan to fork/spawn
       - consider 3rd party FullStack work - but only if it adds value by Hosting Data - ideally in SqLite
+        - Compare the $ rates
+        - Jr "OS" work may need to be gated by Demo pressures
  
 ## 2024 quickLinks
 - Privacy and Promises ( PaP ) are going tp be a major issue even for AdManOn
