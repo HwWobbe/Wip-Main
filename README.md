@@ -10,7 +10,10 @@
         - more efficient
         - more secure ( restricted access / permissions )
           - TwLinks may be a step towards security since the linkages could only be easily available via Tw or Dg: ( Di: ) bookmarks
-- ...
+- Df will propose a direct API link for Cc
+    - This will effectiverly Fork the dataflows and will increase the need for Automated procedures to be launched in each of the environments.
+      - at the very least, this wafrrants some experimentation
+      -   start defining the EDvaluation critirea
 
  
 ## 2024 quickLinks
