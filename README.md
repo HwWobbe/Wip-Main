@@ -5,6 +5,8 @@
       - consider 3rd party FullStack work - but only if it adds value by Hosting Data - ideally in SqLite
         - Compare the $ rates
         - Jr "OS" work may need to be gated by Demo pressures
+        - Ta now has a relatively high hourly rate fir "oart-time= work
+        - Es is very nicely engaged and we might be able to "streamline" the payment process.
     - link to Dg: ( Deb: - since .De: is germany ) topics that are related and can then be expanded better in that environment.
       - these might produce documentation stubs that can the be gateways ti repositories that are:
         - more efficient
