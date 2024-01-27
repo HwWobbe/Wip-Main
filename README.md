@@ -1,3 +1,4 @@
+- prepare for the 01 inPerson meeting
 - https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#2024-quicklinks
 - There may need to be separate Projects at least for CurbSide and AdManCa.
   -  AdManOn & AdManYyz need to be planned
@@ -13,9 +14,9 @@
         - more secure ( restricted access / permissions )
           - TwLinks may be a step towards security since the linkages could only be easily available via Tw or Dg: ( Di: ) bookmarks
 - Df will propose a direct API link for Cc
-    - This will effectiverly Fork the dataflows and will increase the need for Automated procedures to be launched in each of the environments.
+    - This will effectively Fork the dataflows and will increase the need for Automated procedures to be launched in each of the environments.
       - at the very least, this wafrrants some experimentation
-      -   start defining the EDvaluation critirea
+      -   start defining the Evaluation critirea
 
  
 ## 2024 quickLinks
