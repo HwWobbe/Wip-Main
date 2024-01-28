@@ -1,4 +1,5 @@
 - prepare for the -02-01 inPerson meeting
+  - Dg:Agenda
 - https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#2024-quicklinks
 - There may need to be separate Projects at least for CurbSide and AdManCa.
   -  AdManOn & AdManYyz need to be planned
