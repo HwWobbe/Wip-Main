@@ -6,7 +6,7 @@
     - they should likely evolve into PRs that can be scheduled and manipulated as objects  
     - start this within the existing Projects, but plan to fork/spawn
       - consider 3rd party FullStack work - but only if it adds value by Hosting Data - ideally in SqLite
-        - Compare the $ rates
+        - Compare the $ productivity and rates as an indicator of Value
         - Jr "OS" work may need to be gated by Demo pressures
         - Ta now has a relatively high hourly rate fir "oart-time= work
         - Es is very nicely engaged and we might be able to "streamline" the payment process.
