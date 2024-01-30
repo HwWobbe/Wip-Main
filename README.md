@@ -3,6 +3,7 @@
 - https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#2024-quicklinks
 - There may need to be separate Projects at least for CurbSide and AdManCa.
   -  AdManOn & AdManYyz need to be planned
+    - they should likely evolve into PRs that can be scheduled and manipulated as objects  
     - start this within the existing Projects, but plan to fork/spawn
       - consider 3rd party FullStack work - but only if it adds value by Hosting Data - ideally in SqLite
         - Compare the $ rates
