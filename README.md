@@ -6,6 +6,7 @@
         current LeeT >  Chair?
         - ex Woodstock
         - personDb
+        - schoolBoards
     - DataIntegrity may become an umbrella for the Data*.ca group of companies
       - SubjectRights
       - sevenPennies
