@@ -3,6 +3,8 @@
   - Dg:Agenda
     - considerations: Penny WiiFms @ Yyz level ; CaTn ; rbcFg ; valSoft ;
       - Yyz Contingencies ?
+        current LeeT >  Chair?
+        - ex Woodstock
     - DataIntegrity may become an umbrella for the Data*.ca group of companies
       - SubjectRights
       - sevenPennies
