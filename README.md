@@ -1,4 +1,5 @@
-- prepare for the -02-01 inPerson meeting
+- prepare for the next inPerson meeting
+- potential Topics:
   - Dg:Agenda
     - DataIntegrity may become an umbrella for the Data*.ca group of companies
 - https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#2024-quicklinks
