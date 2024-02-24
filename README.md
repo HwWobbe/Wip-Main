@@ -1,4 +1,6 @@
 - prepare for the next inPerson meeting
+  - identify WalkThrus
+    - and WalkAbouts
 - potential Topics:
   - Dg:Agenda
     - considerations: Penny WiiFms @ Yyz level ; CaTn ; rbcFg ; valSoft ;
