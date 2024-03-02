@@ -1,8 +1,8 @@
 - prepare for the next inPerson meeting
-  - identify WalkThrus
-    - and WalkAbouts
+  - identify more WalkThru(s) & WalkAbout(s)
 - potential Topics:
-  Roles: ...
+  - Roles: ...
+    - Leads ; Jobs
   - Dg:Agenda
     - considerations: Penny WiiFms @ Yyz level ; CaTn ; rbcFg ; valSoft ;
       - Yyz Contingencies ?
