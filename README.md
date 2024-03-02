@@ -3,6 +3,7 @@
 - potential Topics:
   - Roles: ...
     - Leads
+      - A Penny for ( Cities ) thoughts
     - Jobs
   - Dg:Agenda
     - considerations: Penny WiiFms @ Yyz level ; CaTn ; rbcFg ; valSoft ;
