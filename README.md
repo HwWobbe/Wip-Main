@@ -2,6 +2,7 @@
   - identify WalkThrus
     - and WalkAbouts
 - potential Topics:
+  Roles: ...
   - Dg:Agenda
     - considerations: Penny WiiFms @ Yyz level ; CaTn ; rbcFg ; valSoft ;
       - Yyz Contingencies ?
@@ -12,7 +13,7 @@
     - DataIntegrity may become an umbrella for the Data*.ca group of companies
       - SubjectRights
       - sevenPennies
-- https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#2024-quicklinks
+  - https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#2024-quicklinks
 - There may need to be separate Projects at least for CurbSide and AdManCa.
   -  AdManOn & AdManYyz need to be planned
     - they should likely evolve into PRs that can be scheduled and manipulated as objects  
