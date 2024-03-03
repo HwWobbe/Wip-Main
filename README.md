@@ -1,7 +1,7 @@
 - respond to Penny
   - prepare for:
     - ( NounB ) Casey
-    - Ls( SeqU CipoCa Val ValuationTn )
+    - Ls( SeqU CipoCa Valsoft ValuationTn )
     - Terry
 - $+ ( .mo/.fo/.we bondsBuy )DanS 
 - $- TomaA
