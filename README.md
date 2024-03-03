@@ -1,9 +1,10 @@
 - respond to Penny
   - prepare for:
     - ( NounB ) Casey
-    - Ls( SeqU CipoCa Val)
+    - Ls( SeqU CipoCa Val ValuationTn )
     - Terry
-- ...
+- $+ ( .mo/.fo/.we bondsBuy )DanS 
+- $- TomaA
 - prepare for the next inPerson meeting
   - identify more WalkThru(s) & WalkAbout(s)
 - potential Topics:
