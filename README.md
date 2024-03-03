@@ -1,7 +1,7 @@
 - respond to Penny
   - prepare for:
     - ( NounB ) Casey
-    - Ls( SeqU )
+    - Ls( SeqU CipoCa Val)
     - Terry
 - ...
 - prepare for the next inPerson meeting
