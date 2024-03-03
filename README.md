@@ -1,8 +1,8 @@
 - respond to Penny
--  prepare for:
-  - ( NounB ) Casey
-  - Ls( SeqU )
-  - Terry
+  - prepare for:
+    - ( NounB ) Casey
+    - Ls( SeqU )
+    - Terry
 - ...
 - prepare for the next inPerson meeting
   - identify more WalkThru(s) & WalkAbout(s)
