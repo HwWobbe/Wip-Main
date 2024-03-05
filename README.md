@@ -1,8 +1,10 @@
-- respond to Penny
-  - prepare for:
-    - ( NounB ) Casey
+- TnT
+  - Agendas for all
     - Ls( SeqU CipoCa Valsoft ValuationTn )
-    - Terry
+    - respond to Penny
+  - prepare for:
+      - Terry
+  - ( NounB ) Casey
 - $+ ( .mo/.fo/.we bondsBuy )DanS 
 - $- TomaA
 - prepare for the next inPerson meeting
