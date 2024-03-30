@@ -90,13 +90,14 @@
 As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia and the TenChapters ( 0-9 ) quidelines.
 
 
-* https://github.com/Data-Integrity-Group/Wip#civicatlas
-  * these QLs can span repos in order to rationalize relative Priorities
-    * a merged Priorities list likely has more value
-      * try creating a separate file that can be attached to a PR
-* https://github.com/Data-Integrity-Group/Wip#CivicAtlasQl
-* https://github.com/Data-Integrity-Group/Wip#civicatlas.md
-* https://github.com/Data-Integrity-Group/Wip#APIdevelopmentConsiderations
+- https://github.com/Data-Integrity-Group/Wip#civicatlas
+  - these QLs can span repos in order to rationalize relative Priorities
+    - a merged Priorities list likely has more value
+      - confirm such an interleaved list of Priorities is helpful
+    - try creating a separate file that can be attached to a PR
+- https://github.com/Data-Integrity-Group/Wip#CivicAtlasQl
+- https://github.com/Data-Integrity-Group/Wip#civicatlas.md
+- https://github.com/Data-Integrity-Group/Wip#APIdevelopmentConsiderations
 
 * when should more folders be added to this repo?
   * Text block creation and Permission Management are likely to be the determining forces.
