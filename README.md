@@ -6,7 +6,7 @@
       - Terry
   - ( NounB ) Casey
 - refactor for common use
-  - ...
+  - start with a Project view so they can be linked better ...
 - $+ ( .mo/.fo/.we bondsBuy )DanS 
 - $- TomaA
 - prepare for the next inPerson meeting
