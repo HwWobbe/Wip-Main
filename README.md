@@ -5,6 +5,8 @@
   - prepare for:
       - Terry
   - ( NounB ) Casey
+- refactor for common use
+  - ...
 - $+ ( .mo/.fo/.we bondsBuy )DanS 
 - $- TomaA
 - prepare for the next inPerson meeting
