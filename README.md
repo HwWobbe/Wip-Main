@@ -16,7 +16,7 @@
     - Leads
       - A Penny for ( Cities ) thoughts
     - Jobs
-      - dataLoads & tableMerges
+      - dataLoads & tableMerges - starting with TomaA <> JrHw
   - Dg:Agenda
     - considerations: Penny WiiFms @ Yyz level ; CaTn ; rbcFg ; valSoft ;
       - Yyz Contingencies ?
