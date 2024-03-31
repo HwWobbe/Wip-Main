@@ -6,7 +6,7 @@
       - Terry - 0330: chat with Gary - update post BDC meet
   - ( NounB ) Casey
 - refactor for common use
-  - try Project views so they can be linked better ...
+  - try Project views so they can be linked better - length refactoring should be effective - PulseUpdates should become more meaningful
 - $+ ( .mo/.fo/.we bondsBuy )DanS 
 - $- TomaA
 - prepare for the next inPerson meeting
