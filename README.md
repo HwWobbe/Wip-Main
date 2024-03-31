@@ -3,7 +3,7 @@
     - Ls( SeqU CipoCa Valsoft ValuationTn )
     - respond to Penny
   - prepare for:
-      - Terry
+      - Terry - 0330: chat with Gary - update post BDC meet
   - ( NounB ) Casey
 - refactor for common use
   - start with a Project view so they can be linked better ...
