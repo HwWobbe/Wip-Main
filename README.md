@@ -6,7 +6,7 @@
       - Terry - 0330: chat with Gary - update post BDC meet
   - ( NounB ) Casey
 - refactor for common use
-  - start with a Project view so they can be linked better ...
+  - try Project views so they can be linked better ...
 - $+ ( .mo/.fo/.we bondsBuy )DanS 
 - $- TomaA
 - prepare for the next inPerson meeting
