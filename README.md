@@ -3,7 +3,10 @@
     - Ls( SeqU CipoCa Valsoft ValuationTn )
     - respond to Penny
   - prepare for:
-      - Terry - 0330: chat with Gary - update post BDC meet
+      - Terry
+        - 0415: talk to Gary directly after PP announcment
+          - $ chat
+        - 0330: chat with Gary - update post BDC meet
   - ( NounB ) Casey
   - WikiPedia integrirt is waning
 - refactor for common use
