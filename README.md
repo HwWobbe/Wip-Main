@@ -1,7 +1,7 @@
 - TnT
   - Agendas for all
     - Ls( SeqU CipoCa Valsoft ValuationTn )
-    - respond to Penny
+    - LsChatTn: response to Penny
   - prepare for:
       - Terry
         - 0415: talk to Gary directly after PP announcment
