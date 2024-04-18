@@ -1,4 +1,5 @@
 - TnT
+  - Toma interface with Sonny
   - Agendas for all
     - Ls( SeqU CipoCa Valsoft ValuationTn )
     - LsChatTn: response to Penny
