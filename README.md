@@ -10,6 +10,7 @@
         - 0330: chat with Gary - update post BDC meet
   - ( NounB ) Casey
   - WikiPedia integrirt is waning
+- "Preponderance of Evidence"
 - refactor for common use
   - try Project views so they can be linked better - length refactoring should be effective - PulseUpdates should become more meaningful
 - $+ ( .mo/.fo/.we bondsBuy )DanS 
