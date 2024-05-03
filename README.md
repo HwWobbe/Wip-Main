@@ -1,5 +1,6 @@
 - TnT
   - Toma interface with Sonny
+    - 0503: seems quite effective but needs testing.
   - Agendas for all
     - Ls( SeqU CipoCa Valsoft ValuationTn )
     - LsChatTn: response to Penny
