@@ -1,6 +1,12 @@
 - TnT
   - Toma interface with Sonny
-    - 0503: seems quite effective but needs testing.
+    - 0503:
+      - seems quite effective but needs testing.
+      - IP concerns raised as a central control issue by Jr.  Ciunters include
+        - just dominate .ca
+        - join powers of GeoSpatial should be adequate to draw Talent & Skills
+        - economies of scale
+        - first mover advantage
   - Agendas for all
     - Ls( SeqU CipoCa Valsoft ValuationTn )
     - LsChatTn: response to Penny
