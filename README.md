@@ -1,5 +1,6 @@
 - TnT
   - RePlan for recent developments
+    - apply updates until the main Topic emphasis is reduced
   - Toma interface with Sonny
     - 0503:
       - seems quite effective but needs testing.
