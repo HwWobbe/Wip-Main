@@ -3,7 +3,7 @@
     - apply updates until the main Topic emphasis is reduced
   - Toma interface with Sonny
     - 0503:
-      - recording notes ?
+      - recording notes ? Review the submitted Minutes
       - seems quite effective but needs testing.
       - IP concerns raised as a central control issue by Jr.  Ciunters include
         - just dominate .ca
