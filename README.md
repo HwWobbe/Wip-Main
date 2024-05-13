@@ -13,6 +13,7 @@
   - Agendas for all
     - Ls( SeqU CipoCa Valsoft ValuationTn )
     - LsChatTn: response to Penny
+    - revert to Xememex for strategies is underway
   - prepare for:
       - Terry
         - 0415: talk to Gary directly after PP announcment
