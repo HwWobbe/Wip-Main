@@ -2,6 +2,7 @@
   - RePlan for recent developments
     - apply updates until the main Topic emphasis is reduced
   - Toma interface with Sonny
+    - 0517: de-dup progress ?
     - 0503:
       - recording notes ? Review the submitted Minutes
       - seems quite effective but needs testing.
