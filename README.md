@@ -11,6 +11,7 @@
         - join powers of GeoSpatial should be adequate to draw Talent & Skills
         - economies of scale
         - first mover advantage
+  - extend BagLz via  TwH
   - Agendas for all
     - Ls( SeqU CipoCa Valsoft ValuationTn )
     - LsChatTn: response to Penny
