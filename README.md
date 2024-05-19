@@ -1,6 +1,6 @@
 - TnT
   - RePlan for recent developments
-    - apply updates until the main Topic emphasis is reduced
+    - apply updates until the top Topic emphasis is reduced
   - Toma interface with Sonny
     - 0517: de-dup progress ?
     - 0503:
