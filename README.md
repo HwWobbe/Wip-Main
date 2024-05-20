@@ -12,6 +12,7 @@
         - economies of scale
         - first mover advantage
   - extend BagLz via  TwH
+    - DnDrop of newer tids should be adequate
   - Agendas for all
     - Ls( SeqU CipoCa Valsoft ValuationTn )
     - LsChatTn: response to Penny
