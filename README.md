@@ -1,6 +1,8 @@
 - TnT
   - RePlan for recent developments
     - apply daily PulseH updates until the top Topic emphasis is reduced
+      - progress with microsoft Mail is apparent
+        - Archive subfolders are promising
   - Toma interface with Sonny
     - 0517: de-dup progress ?
     - 0503:
