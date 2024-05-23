@@ -7,6 +7,9 @@
     - 052: to what extent does Lz need to be involved in the upload process
       - just to request the area and frequencey & to do payments? 
     - 0517: de-dup progress ?
+      - 0524: demo the rudimentary SORT(s) to Dpl for self-service customers.
+        - bind this to the software developments for preferred hardware since that is appealling
+          - check with ...fish re the unexpected hardware ask
     - 0503:
       - recording notes ? Review the submitted Minutes
       - seems quite effective but needs testing.
