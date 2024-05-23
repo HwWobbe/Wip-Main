@@ -4,7 +4,7 @@
       - progress with microsoft Mail is apparent
         - Archive subfolders are promising
   - Toma interface with Sonny
-    - 052: to what extent does Lz need to be involved in the upload process
+    - 0529: \0523: to what extent does Lz need to be involved in the upload process
       - just to request the area and frequencey & to do payments? 
     - 0517: de-dup progress ?
       - 0524: demo the rudimentary SORT(s) to Dpl for self-service customers.
