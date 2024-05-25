@@ -1,6 +1,7 @@
 - TnT
   - Jr wants other domainNames(s)
-    - push for YourData (.net & . org )use 
+    - push for YourData (.net & . org )use
+      - ask Dpl for other suggestions
   - RePlan for recent developments
     - apply daily PulseH updates until the top Topic emphasis is reduced
       - progress with microsoft Mail is apparent
