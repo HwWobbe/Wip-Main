@@ -2,6 +2,7 @@
   - Jr wants other domainNames(s)
     - push for YourData (.net & . org )use
       - ask Dpl for other suggestions
+        - send a chat MonDay - offering help - perhaps suggesting your data (which can be transferred to RnA
   - RePlan for recent developments
     - apply daily PulseH updates until the top Topic emphasis is reduced
       - progress with microsoft Mail is apparent
