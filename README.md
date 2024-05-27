@@ -123,7 +123,9 @@
 ...
 
 ###### H6
-...
+H6 level support allows me to start naming blocks as Anchors that I can then jump to from other locations.
+
+- This should lead to easier creation of other stand-alone files.
 
 <hr>
 
