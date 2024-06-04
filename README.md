@@ -4,7 +4,7 @@
 <hr>
 
 - TtT:
-  - autopmated data integrations is now lagging a bit.
+  - automated data integrations is now lagging a bit.
 
 - TnT:
   - Jr wants other domainNames(s)
