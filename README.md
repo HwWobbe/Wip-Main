@@ -3,7 +3,7 @@
 
 <hr>
 
-_ TtT:
+- TtT:
   - autopmated data integrations is now lagging a bit.
 
 - TnT:
