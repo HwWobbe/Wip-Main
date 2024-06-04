@@ -3,7 +3,10 @@
 
 <hr>
 
-- TnT
+_ TtT:
+  - autopmated data integrations is now lagging a bit.
+
+- TnT:
   - Jr wants other domainNames(s)
     - push for YourData (.net & . org )use
       - ask Dpl for other suggestions
