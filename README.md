@@ -5,7 +5,8 @@
 
 - TtT:
   - automated data integrations is now lagging a bit.
-
+    - Dpl confirmed another GitHub instance fpr PUB should work
+   
 - TnT:
   - Jr wants other domainNames(s)
     - push for YourData (.net & . org )use
