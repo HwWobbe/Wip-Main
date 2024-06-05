@@ -8,6 +8,7 @@
     - 06-05: Dpl confirmed another GitHub instance fpr PUB should work
       - try to standardize the ( in/out )dent method for ( back/for )wards
         - a new summary area may help
+          - chatPrompts should help 
    
 - TnT:
   - Jr wants other domainNames(s)
