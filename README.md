@@ -6,6 +6,7 @@
 - TtT:
   - 06-04: automated data integrations is now lagging a bit.
     - 06-05: Dpl confirmed another GitHub instance fpr PUB should work
+      - try to standardize the ( in/out )dent method for ( back/for )wards
    
 - TnT:
   - Jr wants other domainNames(s)
