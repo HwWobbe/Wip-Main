@@ -5,6 +5,7 @@
 
 - TtT:
   - 06-14: announced that e.on triggers a re-plan of DIG ... AdMan
+    - this will cause a re-organization of Teams and inter-team communications
   - 06-07:
     - missed FriDay CurbSide for hospiceVisit
       - followup via minutes
