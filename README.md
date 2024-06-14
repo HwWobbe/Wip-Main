@@ -4,6 +4,7 @@
 <hr>
 
 - TtT:
+  - 06-14: announced that e.on triggers a re-plan of DIG ... AdMan
   - 06-07:
     - missed FriDay CurbSide for hospiceVisit
       - followup via minutes
