@@ -4,6 +4,10 @@
 <hr>
 
 - TtT:
+  - 06-15:
+    - SysH refinements WORKed
+    - print improved
+    - incomming call notifications 
   - 06-14: announced that e.on triggers a re-plan of DIG ... AdMan
     - this will cause a re-organization of Teams and inter-team communications
       - Motivations 
