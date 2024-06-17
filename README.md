@@ -4,6 +4,7 @@
 <hr>
 
 - TtT:
+  - 06-17: now have Tw/Azure working
   - 06-15:
     - SysH refinements WORKed
     - print improved
