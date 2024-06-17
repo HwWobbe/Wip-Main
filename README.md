@@ -5,6 +5,7 @@
 
 - TtT:
   - 06-17: now have Tw/Azure working
+    - dnDrop and Bag designs are increasingly important.
   - 06-15:
     - SysH refinements WORKed
     - print improved
