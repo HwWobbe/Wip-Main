@@ -4,6 +4,7 @@
 <hr>
 
 - TtT:
+  - 06-18: project management challenges are increasiungly important
   - 06-17: now have Tw/Azure working
     - dnDrop and Bag designs are increasingly important.
     - work on a paragraph Fork
