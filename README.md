@@ -5,6 +5,7 @@
 
 - TtT:
   - 06-20: started iterative miniTeam discussions, that may endure until 260630
+    - noted the LzT pressure in favor of Data Quality analysis sooner.
   - 06-18: project management challenges are increasingly important
     - co-ordinating the interactions of the proposed miniTeams is essential
       - confirm DiigoH can use the main Gists page
