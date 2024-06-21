@@ -27,7 +27,8 @@
         - a new summary area may help
           - chatPrompts should help
       - activityLevel coloring may be cumulative of all below
-   
+     - try a DiigoH Oulineer View
+ 
 - TnT:
   - Jr wants other domainNames(s)
     - push for YourData (.net & . org )use
