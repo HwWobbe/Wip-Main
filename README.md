@@ -4,7 +4,7 @@
 <hr>
 
 - TtT:
-  - 06-23: retained Focus
+  - 06-23: resumed Focus, nioting that DiigoH can process this markup in a useful manner
   - 06-20: started iterative miniTeam discussions, that may endure until 260630
     - noted the LzT pressure in favor of Data Quality analysis sooner.
     - initial agreement regarding "work flow" concepts - especially through our increasingly complex infrastructures.
