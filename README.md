@@ -4,7 +4,8 @@
 <hr>
 
 - TtT:
-  - 06-23: resumed Focus, nioting that DiigoH can process this markup in a useful manner
+  - 06-23: resumed Focus, noting that DiigoH can process this markup in a useful manner
+    - -24: restructuring this page  is a growing need
     - investigate Data Pipelines further
   - 06-20: started iterative miniTeam discussions, that may endure until 260630
     - noted the LzT pressure in favor of Data Quality analysis sooner.
