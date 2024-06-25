@@ -25,17 +25,7 @@
   - 06-14: announced that e.on triggers a re-plan of DIG ... AdMan
     - this will cause a re-organization of Teams and inter-team communications
       - Motivations 
-  - 06-07:
-    - missed FriDay CurbSide for hospiceVisit
-      - followup via minutes
-   - 06-06: YourData.(s) confirmed with PrwT  - 06-04: automated data integrations is now lagging a bit.
-    - 06-05: Dpl confirmed another GitHub instance for PUB should work
-      - try to standardize the ( in/out )dent method for ( back/for )wards
-        - a new summary area may help
-          - chatPrompts should help
-      - activityLevel coloring may be cumulative of all below
-     - try a DiigoH Oulineer View
- 
+  
 - TnT:
   - Jr wants other domainNames(s)
     - push for YourData (.net & . org )use
