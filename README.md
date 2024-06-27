@@ -4,6 +4,7 @@
 <hr>
 
 - TtT:
+  - 06-26: Chat is starting to displace other WaysH
   - 06-23: resumed Focus, noting that DiigoH can process this raw GitHub markup in a useful manner
     - -24: restructuring this page  is a growing need
       - test the idea of removing content to DiigoH pages or gDocs
