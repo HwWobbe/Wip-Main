@@ -4,6 +4,7 @@
 <hr>
 
 - TtT:
+  - 07-03: Introduce Dl & Bp on -07-04
   - 06-26: Chat is starting to displace other WaysH
     - this will likely rejuvenate TheArray
   - 06-23: resumed Focus, noting that DiigoH can process this raw GitHub markup in a useful manner
