@@ -6,6 +6,7 @@
 - TtT:
   - -07-05: aJo re mkt Names decisions
       - ?? MiniTeam /?
+        - try driving this with Teams/Plan(s)
   - 07-03: Introduce Dl & Bp on -07-04
   - 06-26: Chat is starting to displace other WaysH
     - this will likely rejuvenate TheArray
