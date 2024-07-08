@@ -4,6 +4,7 @@
 <hr>
 
 - TtT:
+  - -08: LadiesDinner
   - -07-05: aJo re mkt Names decisions
       - ?? MiniTeam /?
         - try driving this with Teams/Plan(s)
