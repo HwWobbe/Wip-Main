@@ -4,6 +4,7 @@
 <hr>
 
 - TtT:
+  - -09: experimenting with DefinitiveChoice
   - -08: LadiesDinner / LzT
   - -07-05: aJo re mkt Names decisions
       - ?? MiniTeam /?
