@@ -5,6 +5,7 @@
 
 - TtT:
   - -09: experimenting with DefinitiveChoice
+    - craft an effective link
     - .tn: could be  useful
   - -08: LadiesDinner / LzT
   - -07-05: aJo re mkt Names decisions
