@@ -4,10 +4,10 @@
 <hr>
 
 - TtT:
-  -10:
-    - craft an effective link
-  - -09: experimenting with DefinitiveChoice
-    - .tn: could be  useful
+  -2004-07
+    -10: craft an effective link
+    -09: experimenting with DefinitiveChoice
+      - .tn: could be  useful
   - -08: LadiesDinner / LzT
   - -07-05: aJo re mkt Names decisions
       - ?? MiniTeam /?
