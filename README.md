@@ -6,11 +6,11 @@
  - fix this
 
 ## TtT: 2004-07: 
--10: craft an effective link
--09: experimenting with DefinitiveChoice
+- -10: craft an effective link
+- -09: experimenting with DefinitiveChoice
   - .tn: could be  useful
--08: LadiesDinner / LzT
--07-05: aJo re mkt Names decisions
+- -08: LadiesDinner / LzT
+- -07-05: aJo re mkt Names decisions
   - ?? MiniTeam /?
     - try driving this with Teams/Plan(s)
 - 07-03: Introduce Dl & Bp on -07-04
