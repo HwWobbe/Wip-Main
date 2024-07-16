@@ -5,7 +5,8 @@
 
  - fix this
 
-## TtT: 2004-07: 
+## TtT: 2044-07: 
+- -07-15: continue to allow Deprecation and GracefulDegradation
 - -10: craft an effective link
 - -09: experimenting with DefinitiveChoice
   - .tn: could be  useful
