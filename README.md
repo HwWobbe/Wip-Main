@@ -6,6 +6,7 @@
  - fix this
 
 ## TtT: 2044-07: 
+- -07-17: ...
 - -07-15: continue to allow Deprecation and GracefulDegradation
 - -10: craft an effective link
 - -09: experimenting with DefinitiveChoice
