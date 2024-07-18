@@ -8,7 +8,7 @@
 ## TtT: 2044-07: 
 - -07-17: PDFs (via Chat) may be effective, so devise a test
   - work with GeoSpatial
-    - try introducing Haersine and Rays
+    - try introducing Haversine and Rays
 - -07-15: continue to allow Deprecation and GracefulDegradation
   -10: craft an effective link
    -09: experimenting with DefinitiveChoice
