@@ -6,7 +6,7 @@
  - fix this
 
 ## TtT: 2044-07: 
-- -07-17: ...
+- -07-17: PDFs (via Chat) may be effective, so devise a test
 - -07-15: continue to allow Deprecation and GracefulDegradation
 - -10: craft an effective link
 - -09: experimenting with DefinitiveChoice
