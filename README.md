@@ -7,9 +7,11 @@
 
 ## TtT: 2044-07: 
 - -07-17: PDFs (via Chat) may be effective, so devise a test
+  - work with GeoSpatial
+    - try introducing Haersine and Rays
 - -07-15: continue to allow Deprecation and GracefulDegradation
-- -10: craft an effective link
-- -09: experimenting with DefinitiveChoice
+  -10: craft an effective link
+   -09: experimenting with DefinitiveChoice
   - .tn: could be  useful
 - -08: LadiesDinner / LzT
 - -07-05: aJo re mkt Names decisions
