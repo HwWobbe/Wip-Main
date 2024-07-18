@@ -6,6 +6,7 @@
  - fix this
 
 ## TtT: 2044-07: 
+- -07-18: test PromptSharing for LzT
 - -07-17: PDFs (via Chat) may be effective, so devise a test
   - work with GeoSpatial
     - try introducing Haversine and Rays
