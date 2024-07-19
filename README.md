@@ -6,7 +6,7 @@
  - fix this
 
 ## TtT: 2044-07: 
-- -19: LzT AjT HwW
+- -19: ( Chat... CurbSide ... )LzT AjT HwW 
 - -07-18: test PromptSharing for LzT ; HuggingFace access
 - -07-17: PDFs (via Chat) may be effective, so devise a test
   - work with GeoSpatial
