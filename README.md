@@ -6,7 +6,7 @@
  - fix this
 
 ## TtT: 2044-07: 
-- -22: decide how to propogate the GhatTw hybrid work
+- -22: decide how to propogate the ChatTw hybrid work
 - -19: ( Chat.?shared.? CurbSide ... )LzT AjT HwW 
 - -07-18: test PromptSharing for LzT ; HuggingFace access
 - -07-17: PDFs (via Chat) may be effective, so devise a test
