@@ -9,6 +9,7 @@
 - -23: review NameRules in the contexts of Pages of EndNotes
   - should these be PDFs for DiigoH filing
     - is Ai... sufficiently reliable?
+      - test with POE
 - -22: decide how to propogate the ChatTw hybrid work
   - ...
 - -19: ( Chat.?shared.? CurbSide ... )LzT AjT HwW 
