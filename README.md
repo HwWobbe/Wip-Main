@@ -7,6 +7,7 @@
 
 ## TtT: 2044-07: 
 - -24: evaluate AiGit as a way to generate my Git posts
+  - -27: consider moving this comment to anotheer repo
 - -23: review NameRules in the contexts of Pages of EndNotes
   - should these be PDFs for DiigoH filing
     - is Ai... sufficiently reliable?
