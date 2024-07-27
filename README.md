@@ -6,8 +6,9 @@
  - fix this
 
 ## TtT: 2044-07: 
+- -27: extend this into the CL version(s)
 - -24: evaluate AiGit as a way to generate my Git posts
-  - -27: consider moving this comment to anotheer repo
+  - -27: consider moving this comment to another repo
 - -23: review NameRules in the contexts of Pages of EndNotes
   - should these be PDFs for DiigoH filing
     - is Ai... sufficiently reliable?
