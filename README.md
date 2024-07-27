@@ -8,6 +8,7 @@
 ## TtT: 2044-07: 
 - -27: extend this into the CL version(s)
   - consider using Chat for this
+  - also try chat to populate the text of various DebateGraph pages
 - -24: evaluate AiGit as a way to generate my Git posts
   - -27: consider moving this comment to another repo
 - -23: review NameRules in the contexts of Pages of EndNotes
