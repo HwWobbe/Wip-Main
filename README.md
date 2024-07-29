@@ -6,6 +6,8 @@
  - fix this
 
 ## TtT: 2024-08: 
+- move HacerSine notes into Mws.Wiki
+
 
 ## TtT: 2024-07: 
 - -27: extend this into the CL version(s)
