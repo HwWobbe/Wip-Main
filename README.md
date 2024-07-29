@@ -6,7 +6,7 @@
  - fix this
 
 ## TtT: 2024-08: 
-- move HacerSine notes into Mws.Wiki
+- move HaverSine notes into Mws.Wiki
 
 
 ## TtT: 2024-07: 
