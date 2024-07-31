@@ -10,6 +10,8 @@
   - OneTheList via GIS
   - R.E. attributes for improved .f(ind) processing
 - BdcTalks
+  - W. + boss talks
+    - in Waterloo?
   - Risk mitigation & Valuation
   - Term Sheet
 - ...
