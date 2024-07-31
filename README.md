@@ -9,6 +9,8 @@
 - Focus on:
   - OneTheList via GIS
   - R.E. attributes for improved .f(ind) processing
+- BdcTalks
+  - ...
 - move HaverSine notes into Mws.Wiki
 - ...
 
