@@ -10,7 +10,9 @@
   - OneTheList via GIS
   - R.E. attributes for improved .f(ind) processing
 - BdcTalks
-  - ...
+  - Risk mitigation & Valuation
+  - Term Sheet
+- ...
 - move HaverSine notes into Mws.Wiki
 - ...
 
