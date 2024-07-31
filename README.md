@@ -6,6 +6,9 @@
  - fix this
 
 ## TtT: 2024-08: 
+- Focus on:
+  - OneTheList via GIS
+  - R.E. attributes for improved .f(ind) processing
 - move HaverSine notes into Mws.Wiki
 - ...
 
