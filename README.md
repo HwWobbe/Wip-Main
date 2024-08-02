@@ -8,6 +8,7 @@
 ## TtT: 2024-08: 
 - Focus on:
   - OnTheList via GIS
+    - divergence of Eon & Eca boundaries makes the edge cases very interesting.
   - R.E. attributes for improved .f(ind) processing
 - BdcTalks
   - W. + boss talks
