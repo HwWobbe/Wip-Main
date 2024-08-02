@@ -19,6 +19,8 @@
 - move HaverSine notes into Mws.Wiki
 - ...
 
+- 08-02: discussed using a modified CurbSide with HELP improvents
+
   <hr>
 
 ## TtT: 2024-07: 
