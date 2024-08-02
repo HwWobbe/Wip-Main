@@ -14,6 +14,7 @@
       - Sales should drive Marketing.
         - first Marketing activity should be proposed cohort defininitions
           - consider defining this by the "MoveReasons" insights
+            - AiHw: Initial versus ultimate marketing Goals
          
 - BdcTalks
   - W. + boss talks
