@@ -13,6 +13,8 @@
     - Sales emphasis may need to preceed Branding
       - Sales should drive Marketing.
         - first Marketing activity should be proposed cohort defininitions
+          - consider defining this by the "MoveReasons" insights
+         
 - BdcTalks
   - W. + boss talks
     - in Waterloo?
