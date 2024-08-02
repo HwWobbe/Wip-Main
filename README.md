@@ -18,6 +18,7 @@
 - move HaverSine notes into Mws.Wiki
 - ...
 
+  <hr>
 
 ## TtT: 2024-07: 
 - -27: extend this into the CL version(s)
