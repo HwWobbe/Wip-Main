@@ -11,6 +11,8 @@
     - divergence of Eon & Eca boundaries makes the edge cases very interesting.
   - R.E. attributes for improved .f(ind) processing
     - Sales emphasis may need to preceed Branding
+      - Sales should drive Marketing.
+        - first Marketing activity should be proposed cohort defininitions
 - BdcTalks
   - W. + boss talks
     - in Waterloo?
