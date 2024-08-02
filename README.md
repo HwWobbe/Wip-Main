@@ -10,6 +10,7 @@
   - OnTheList via GIS
     - divergence of Eon & Eca boundaries makes the edge cases very interesting.
   - R.E. attributes for improved .f(ind) processing
+    - Sales emphasis may need to preceed Branding
 - BdcTalks
   - W. + boss talks
     - in Waterloo?
