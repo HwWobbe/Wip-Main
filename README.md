@@ -7,7 +7,7 @@
 
 ## TtT: 2024-08: 
 - Focus on:
-  - OneTheList via GIS
+  - OnTheList via GIS
   - R.E. attributes for improved .f(ind) processing
 - BdcTalks
   - W. + boss talks
