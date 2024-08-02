@@ -15,6 +15,7 @@
         - first Marketing activity should be proposed cohort defininitions
           - consider defining this by the "MoveReasons" insights
             - AiHw: Initial versus ultimate marketing Goals
+              - in Novice ( a first Levels of Expertise ) terms
          
 - BdcTalks
   - W. + boss talks
