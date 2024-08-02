@@ -15,7 +15,6 @@
     - in Waterloo?
   - Risk mitigation & Valuation
   - Term Sheet
-- ...
 - move HaverSine notes into Mws.Wiki
 - ...
 
