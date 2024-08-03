@@ -21,7 +21,8 @@
          
 - BdcTalks
   - W. + boss talks
-    - in Waterloo?
+    - offer to meet in Waterloo
+      - explain why I am there in a comforting way
   - Risk mitigation & Valuation
   - Term Sheet
 - move HaverSine notes into Mws.Wiki
