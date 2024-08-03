@@ -30,6 +30,8 @@
 - ...
 
 - 08-03: try using a Project structure to interleave these effectively
+  - discuss this with Toma as a TwDev SoW that can prow up in a GitHub context
+    - find the JrTpH email pointing to the TomaPr
 - 08-02: discussed using a modified CurbSide with HELP improvents
 
   <hr>
