@@ -9,6 +9,8 @@
 - Focus on:
   - OnTheList via GIS
     - divergence of Eon & Eca boundaries makes the edge cases very interesting.
+    - this is likely a portend of a Spring event
+      - that will need dramatic changes in WayD
   - R.E. attributes for improved .f(ind) processing
     - Sales emphasis may need to preceed Branding
       - Sales should drive Marketing.
