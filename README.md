@@ -18,7 +18,8 @@
           - consider defining this by the "MoveReasons" insights
             - AiHw: Initial versus ultimate marketing Goals
               - in Novice ( a first Levels of Expertise ) terms
-         
+    - this should be driven by OnTheList via CurbSide, with embedded AI and YouTudbe Context sensitive Help
+   
 - BdcTalks
   - W. + boss talks
     - offer to meet in Waterloo
