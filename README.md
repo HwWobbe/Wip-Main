@@ -29,6 +29,7 @@
 - move HaverSine notes into Mws.Wiki
 - ...
 
+- 08-03: try using a Project structure to interleave these effectively
 - 08-02: discussed using a modified CurbSide with HELP improvents
 
   <hr>
