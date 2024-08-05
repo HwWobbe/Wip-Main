@@ -7,7 +7,7 @@
 
 ## TtT: 2024-08: 
 - Focus on:
-  - OnTheList via GIS
+  - ( Am I )"OnTheList" via GIS
     - divergence of Eon & Eca boundaries makes the edge cases very interesting.
     - this is likely a portend of a Spring event
       - that will need dramatic changes in WayD
