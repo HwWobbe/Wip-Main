@@ -13,6 +13,7 @@
       - that will need dramatic changes in WayD
         - Discuss the possible implications Wed.
           - Automated & (senior) Manual testing may be mandatory
+            - Regression Testing is sorely needed to conserve time
   - R.E. attributes for improved .f(ind) processing
     - Sales emphasis may need to preceed Branding
       - Sales should drive Marketing.
