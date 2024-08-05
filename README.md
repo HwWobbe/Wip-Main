@@ -8,7 +8,7 @@
 ## TtT: 2024-08: 
 - Focus on:
   - ( Am I )"OnTheList" via GIS
-    - divergence of Eon & Eca boundaries makes the edge cases very interesting.
+    - divergence of Eon & Eca boundaries make the edge cases very interesting
     - this is likely a portend of a Spring event
       - that will need dramatic changes in WayD
         - Discuss the possible implications Wed.
