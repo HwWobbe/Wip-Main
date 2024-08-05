@@ -11,6 +11,7 @@
     - divergence of Eon & Eca boundaries makes the edge cases very interesting.
     - this is likely a portend of a Spring event
       - that will need dramatic changes in WayD
+        - Discuss the possible implications Wed.
   - R.E. attributes for improved .f(ind) processing
     - Sales emphasis may need to preceed Branding
       - Sales should drive Marketing.
