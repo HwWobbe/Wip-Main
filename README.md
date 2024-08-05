@@ -12,6 +12,7 @@
     - this is likely a portend of a Spring event
       - that will need dramatic changes in WayD
         - Discuss the possible implications Wed.
+          - Automated & (senior) Manual testing may be mandatory
   - R.E. attributes for improved .f(ind) processing
     - Sales emphasis may need to preceed Branding
       - Sales should drive Marketing.
