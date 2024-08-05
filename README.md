@@ -24,6 +24,7 @@
     - this should be driven by OnTheList via CurbSide, with embedded AI and YouTudbe Context sensitive Help
    
 - try https://gist.github.com/HwWobbe/7a4d8d176befab700cd1271172b55f6b
+  - this seems effective enough to warrant an additional investment of time
  
 - BdcTalks
   - W. + boss talks
