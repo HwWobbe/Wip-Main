@@ -1,4 +1,5 @@
 ###### Tt
+- consider Ideas from: BotHww.UniCode
 - https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#h6
 
 <hr>
