@@ -1,5 +1,6 @@
 ###### Tt
-- consider Ideas from: BotHww.UniCode 
+- consider Ideas from: BotHww.UniCode
+  - link via myGIST(s)
 - https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#h6
 
 <hr>
