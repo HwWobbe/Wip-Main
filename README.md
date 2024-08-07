@@ -24,10 +24,7 @@
             - AiHw: Initial versus ultimate marketing Goals
               - in Novice ( a first Levels of Expertise ) terms
     - this should be driven by OnTheList via CurbSide, with embedded AI and YouTudbe Context sensitive Help
-- to maintain a GoalsH focus
-  - Bots must correctly pick the productive components that fit into the next available timePeriod
-    - 
-
+- to maintain a GoalsH focus, Bots must correctly pick productive components that fit into the next available timePeriod
 - try https://gist.github.com/HwWobbe/7a4d8d176befab700cd1271172b55f6b
   _ <script src="https://gist.github.com/HwWobbe/7a4d8d176befab700cd1271172b55f6b.js"></script>
   - this seems effective enough to warrant an additional investment of time
