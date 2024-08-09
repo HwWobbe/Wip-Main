@@ -14,7 +14,9 @@
     - divergence of Eon & Eca boundaries make the edge cases very interesting
     - this is likely a portend of a Spring event
       - that will need dramatic changes in WayD
-        - Discuss the possible implications Wed.
+        - Discuss the possible implications with DplT since we used to do this for cities
+          - we can always do it for Subjects, as their Agents
+            - ...
           - Automated & (senior) Manual testing may be mandatory
             - Regression Testing is sorely needed to conserve time
   - R.E. attributes for improved .f(ind) processing
