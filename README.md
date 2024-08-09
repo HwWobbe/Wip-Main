@@ -10,7 +10,7 @@
 
 ## TtT: 2024-08: 
 - Focus on:
-  - ( Am I )"OnTheList" via GIS
+  - ( Am I )"OnTheList" via GIS ; make this a PR ; Project with MileStones
     - divergence of Eon & Eca boundaries make the edge cases very interesting
     - this is likely a portend of a Spring event
       - that will need dramatic changes in WayD
