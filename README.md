@@ -19,6 +19,7 @@
             - ...
           - Automated & (senior) Manual testing may be mandatory
             - Regression Testing is sorely needed to conserve time
+      -  2025-04-01 is the expected readiness date
   - R.E. attributes for improved .f(ind) processing
     - Sales emphasis may need to preceed Branding
       - Sales should drive Marketing.
