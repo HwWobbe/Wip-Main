@@ -32,6 +32,7 @@
         - try promoting this with a Bot
           - consider BotViewsOnLocalRealEstate
 - to maintain a GoalsH focus, Bots must correctly pick productive components that fit into the next available timePeriod
+  - this will likely be an optimization of Rewar/Cost within a ConText of Need, DEpendencies, UrgencyOfNeed ...P.QrSt
 - try https://gist.github.com/HwWobbe/7a4d8d176befab700cd1271172b55f6b
   _ <script src="https://gist.github.com/HwWobbe/7a4d8d176befab700cd1271172b55f6b.js"></script>
   - this seems effective enough to warrant an additional investment of time
