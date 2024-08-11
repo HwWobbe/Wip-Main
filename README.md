@@ -31,6 +31,12 @@
       - YourDataForOnTheListChecks may help
         - try promoting this with a Bot
           - consider BotViewsOnLocalRealEstate
+  - AgentsInArea
+    - by (most listings) Agent
+      - Buyer's Markets (Jason has the Buyers .com)
+        -  BarbaraCorcoran - DragonsDen
+      - Seller's Markets
+        - 
 - to maintain a GoalsH focus, Bots must correctly pick productive components that fit into the next available timePeriod
   - This will likely be an optimization of Rewar/Cost ...
     - .. within a ConText of Need, Dependencies, UrgencyOfNeed ...
