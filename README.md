@@ -1,6 +1,7 @@
 ###### Tt
 - consider Ideas from: BotHww.UniCode
   - link via myGIST(s)
+- AskPoeT: Summarize 3. Introduction ; 3.4 Background.Summary leading to ... progress
 - GistShare ...
 - https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#h6
 
