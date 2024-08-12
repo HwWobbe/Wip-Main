@@ -18,9 +18,10 @@
         - Discuss the possible implications with DplT since we used to do this for cities
           - we can always do it for Subjects, as their Agents
             - ...
-          - Automated & (senior) Manual testing may be mandatory
-            - Regression Testing is sorely needed to conserve time
-      -  2025-04-01 is the expected readiness date
+- Automated & (senior) Manual testing may be mandatory
+  - Regression Testing is sorely needed to conserve time 
+    -  2025-04-01 is the expected readiness date
+   
   - R.E. attributes for improved .f(ind) processing
     - Sales emphasis may need to preceed Branding
       - Sales should drive Marketing.
@@ -28,16 +29,21 @@
           - consider defining this by the "MoveReasons" insights
             - AiHw: Initial versus ultimate marketing Goals
               - in Novice ( a first Levels of Expertise ) terms
-    - this should be driven by OnTheList via CurbSide, with embedded AI and YouTube Context sensitive Help
+
+     - this should be driven by OnTheList via CurbSide, with embedded AI and YouTube Context sensitive Help
       - YourDataForOnTheListChecks may help
         - try promoting this with a Bot
           - consider BotViewsOnLocalRealEstate
+
   - AgentsInArea
     - by (most listings) Agent
       - Buyer's Markets (Jason has the Buyers .com)
         -  BarbaraCorcoran - DragonsDen
       - Seller's Markets 
-       - ... 
+       - ...
+     
+<hr>
+
 - to maintain a GoalsH focus, Bots must correctly pick productive components that fit into the next available timePeriod
   - This will likely be an optimization of Rewar/Cost ...
     - .. within a ConText of Need, Dependencies, UrgencyOfNeed ...
