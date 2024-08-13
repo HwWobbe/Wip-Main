@@ -43,7 +43,8 @@
         -  BarbaraCorcoran - DragonsDen
       - Seller's Markets 
        - ...
-     
+  - feed Bots for a centralized Summary of GitWork
+  
 <hr>
 
 - to maintain a GoalsH focus, Bots must correctly pick productive components that fit into the next available timePeriod
