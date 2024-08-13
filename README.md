@@ -43,7 +43,7 @@
         -  BarbaraCorcoran - DragonsDen
       - Seller's Markets 
        - ...
-  - feed Bots for a centralized Summary of GitWork
+- feed Bots for a centralized Summary of GitWork
   
 <hr>
 
