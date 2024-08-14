@@ -20,6 +20,8 @@
             - ...
   - push for a Leader(ship) team - perhaps with 7pennies
     - seriously communicated via an email reply to Andrea that copied Lisa.
+  - re-deploy time to QCC preparations via BotForecasts
+    - Context: WavesOfChange Charles Lecht ; ComputersInThe1980s RienTurn(?) ; ClubOfRome
    
 - Automated & (senior) Manual testing may be mandatory
   - Regression Testing is sorely needed to conserve time 
