@@ -19,7 +19,8 @@
           - we can always do it for Subjects, as their Agents
             - ...
   - push for a Leader(ship) team - perhaps with 7pennies
-  
+    - seriously communicated via an email reply to Andrea that copied Lisa.
+   
 - Automated & (senior) Manual testing may be mandatory
   - Regression Testing is sorely needed to conserve time 
     -  2025-04-01 is the expected readiness date
