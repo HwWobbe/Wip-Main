@@ -25,6 +25,7 @@
     - Context: WavesOfChange Charles Lecht ; ComputersInThe1980s RienTurn(?) ; ClubOfRome
       - stage this at DebateGraph since that can be an AskLaunchPad ( at least for some BotsH )
     - make this part of BotDEv training
+      - draw.io ?
    
 - Automated & (senior) Manual testing may be mandatory
   - Regression Testing is sorely needed to conserve time 
