@@ -44,7 +44,7 @@
       - YourDataForOnTheListChecks may help
         - try promoting this with a Bot
           - consider BotViewsOnLocalRealEstate
-- cite this work
+- cite this work - hosted at DebateGraph
 
   - AgentsInArea
     - by (most listings) Agent
