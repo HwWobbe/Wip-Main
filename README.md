@@ -53,7 +53,7 @@
       - Seller's Markets 
        - ...
 - feed Bots for a centralized Summary of GitWork
-  - perhaps sored in DebateGraph - DgH
+  - perhaps stored in DebateGraph - DgH
   
 <hr>
 
