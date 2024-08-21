@@ -22,6 +22,7 @@
             - ...
   - push for a Leader(ship) team - perhaps with 7pennies
     - seriously communicated via an email reply to Andrea that copied Lisa.
+      - but perhaps not effectively given an obvious protection layer
   - re-deploy time to QCC preparations via BotForecasts
     - Context: WavesOfChange Charles Lecht ; ComputersInThe1980s RienTurn(?) ; ClubOfRome
       - stage this at DebateGraph since that can be an AskLaunchPad ( at least for some BotsH )
