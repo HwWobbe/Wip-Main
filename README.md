@@ -11,7 +11,7 @@
 
  - fix this
 
-## TtT: 2024-08: 
+## TtT: 2024-09:
 - Focus on:
   - ( Am I )"OnTheList" via GIS ; make this a PR ; Project with MileStones
     - divergence of Eon & Eca boundaries make the edge cases very interesting
@@ -20,6 +20,8 @@
         - Discuss the possible implications with DplT since we used to do this for cities
           - we can always do it for Subjects, as their Agents
             - ...
+
+## TtT: 2024-08: 
   - push for a Leader(ship) team - perhaps with 7pennies
     - seriously communicated via an email reply to Andrea that copied Lisa.
       - but perhaps not effectively given an obvious protection layer
