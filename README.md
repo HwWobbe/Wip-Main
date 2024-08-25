@@ -20,6 +20,7 @@
 - Focus on:
   - ( Am I )"OnTheList" via GIS ; make this a PR ; Project with MileStones
     - divergence of Eon & Eca boundaries make the edge cases very interesting
+      - quantify the Revisions impacts: ( Labour, ... )
     - this is likely a portend of a Spring event
       - that will need dramatic changes in WayD
         - Discuss the possible implications with DplT since we used to do this for cities
