@@ -16,8 +16,6 @@
 
 <hr>
 
- - fix this
-
 ## TtT: 2024-09:
 - Focus on :
   - ( Am I )"OnTheList" via GIS ; make this a PR ; Project with MileStones
