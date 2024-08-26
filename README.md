@@ -17,7 +17,7 @@
  - fix this
 
 ## TtT: 2024-09:
-- ** Focus on **:
+- Focus on :
   - ( Am I )"OnTheList" via GIS ; make this a PR ; Project with MileStones
     - divergence of Eon & Eca boundaries make the edge cases very interesting
       - quantify the Revisions impacts: ( Labour, ... )
@@ -26,6 +26,7 @@
         - Discuss the possible implications with DplT since we used to do this for cities
           - we can always do it for Subjects, as their Agents
             - ...
+    - craft a *.md for enhanced formatting
 
 ## TtT: 2024-08: 
   - push for a Leader(ship) team - perhaps with 7pennies
