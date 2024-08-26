@@ -28,6 +28,8 @@
             - ...
     - craft a *.md for enhanced formatting
 
+<hr>
+
 ## TtT: 2024-08: 
   - push for a Leader(ship) team - perhaps with 7pennies
     - seriously communicated via an email reply to Andrea that copied Lisa.
