@@ -12,6 +12,7 @@
 - GistShare ...
 - https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#h6
   - prettyfy this link
+  - strive for a much lower PulseH
 - list the Canadian centres of research that are recognized as being the most advanced in Quantum Computing
   - is this a better mthodology than the use of EndNotes ?
 
