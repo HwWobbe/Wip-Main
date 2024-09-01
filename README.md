@@ -1,6 +1,6 @@
 ###### Tt
 - OnTheList - needs even more emphasis
-  - ...
+  - position this via Updates tp reflect rekative importance
 - consider Ideas from: BotHww.UniCode
   - link via myGIST(s)
     - learn
