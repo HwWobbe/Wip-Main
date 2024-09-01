@@ -14,6 +14,8 @@
   - prettyfy this link
   - strive for a much lower PulseH
 - list the Canadian centres of research that are recognized as being the most advanced in Quantum Computing
+  - first response show UoW as a global leader
+    - get a better understanding of the IP sharing arrangements
   - is this a better mthodology than the use of EndNotes ?
 
 <hr>
