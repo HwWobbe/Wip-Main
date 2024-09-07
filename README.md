@@ -2,6 +2,7 @@
 - OnTheList - needs even more emphasis
   - position this via Updates to reflect relative importance
     - delay JkwTnChats until Dani responds
+  - scope will be impacted by Funding
 - consider Ideas from: BotHww.UniCode
   - link via myGIST(s)
     - learn
