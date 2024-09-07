@@ -3,6 +3,7 @@
   - position this via Updates to reflect relative importance
     - delay JkwTnChats until Dani responds
   - scope will be impacted by Funding
+    - stress a Decade of IFS funding (2 Events) for the 2030s
 - consider Ideas from: BotHww.UniCode
   - link via myGIST(s)
     - learn
