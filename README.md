@@ -1,6 +1,7 @@
 ###### Tt
 - OnTheList - needs even more emphasis
   - position this via Updates to reflect relative importance
+    - delay JkwTnChats until Dani responds
 - consider Ideas from: BotHww.UniCode
   - link via myGIST(s)
     - learn
