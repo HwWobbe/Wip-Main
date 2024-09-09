@@ -13,7 +13,8 @@
 
 <hr>
 
-- GistShare ...
+- GistShare:
+  - ...
 - https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#h6
   - prettyfy this link
   - strive for a much lower PulseH
