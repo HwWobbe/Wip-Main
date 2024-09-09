@@ -9,7 +9,7 @@
   - link via myGIST(s)
     - learn
   - AskPoeT: Summarize 3. Introduction ; 3.4 Background.Summary leading to ... progress
-    - Asks Inventory: ...
+    - Asks Inventory: ( ... )
 
 <hr>
 
