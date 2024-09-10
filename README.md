@@ -1,13 +1,16 @@
 ###### Tt
+
 - OnTheList - needs even more emphasis
   - position this via Updates to reflect relative importance
     - delay JkwTnChats until Dani responds
   - scope will be impacted by Funding
     - stress a Decade of IFS funding (2 Events) for the 2030s
       - embraces the completed Standards work and preempts it
+
 - consider Ideas from: BotHww.UniCode
   - link via myGIST(s)
     - learn
+ 
   - AskPoeT: Summarize 3. Introduction ; 3.4 Background.Summary leading to ... progress
     - Asks Inventory: ( ... )
 
