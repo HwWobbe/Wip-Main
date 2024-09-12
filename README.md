@@ -1,5 +1,8 @@
 ###### Tt
 
+- Excel dataQuality recviews via Toma
+  - GIS library links per JrH
+
 - OnTheList - needs even more emphasis
   - position this via Updates to reflect relative importance
     - delay JkwTnChats until Dani responds
