@@ -4,7 +4,11 @@
   - GIS library links per JrH - but not via Ta
     - TaContinuanceChallenge
       - subcontract the dev work for better value
+        - I will always want to assume the sub-contract fir technical training for R&D
+          - but Jr passions (open source libraries of Data and Tools ) may be more efficient
+            - ( I was not expecting CaDfQss )
         - Architecture (expensive) collaboration may need to look like an advisor role.
+        - 
 
 - OnTheList - needs even more emphasis
   - position this via Updates to reflect relative importance
