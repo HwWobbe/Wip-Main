@@ -8,7 +8,7 @@
           - but Jr passions (open source libraries of Data and Tools ) may be more efficient
             - ( I was not expecting CaDfQss )
         - Architecture (expensive) collaboration may need to look like an advisor role.
-        - 
+          - perhaps even a SevenCos role
 
 - OnTheList - needs even more emphasis
   - position this via Updates to reflect relative importance
