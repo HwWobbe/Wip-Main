@@ -3,6 +3,8 @@
 - Excel dataQuality reviews via Toma
   - GIS library links per JrH - but not via Ta
     - TaContinuanceChallenge
+      - subcontract the dev work for better value
+        - Architecture (expensive) collaboration may need to look like an advisor role.
 
 - OnTheList - needs even more emphasis
   - position this via Updates to reflect relative importance
