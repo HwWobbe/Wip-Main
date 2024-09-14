@@ -1,7 +1,8 @@
 ###### Tt
 
 - Excel dataQuality reviews via Toma
-  - GIS library links per JrH
+  - GIS library links per JrH - but not via Ta
+    - TaContinuanceChallenge
 
 - OnTheList - needs even more emphasis
   - position this via Updates to reflect relative importance
