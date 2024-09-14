@@ -1,6 +1,6 @@
 ###### Tt
 
-- Excel dataQuality recviews via Toma
+- Excel dataQuality reviews via Toma
   - GIS library links per JrH
 
 - OnTheList - needs even more emphasis
