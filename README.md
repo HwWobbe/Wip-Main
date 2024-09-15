@@ -1,7 +1,7 @@
 ###### Tt
 
 - Excel dataQuality reviews via Toma
-  - "M WS > Azure promotion(s) structured
+  - "MWS" > Azure promotion(s) structured
     - consider a Pause until DplT-11- availability ...
   - GIS library links per JrH - but not via Ta
     - TaContinuanceChallenge
