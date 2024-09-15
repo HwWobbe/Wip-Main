@@ -1,6 +1,8 @@
 ###### Tt
 
 - Excel dataQuality reviews via Toma
+  - "M WS > Azure promotion(s) structured
+    - ...
   - GIS library links per JrH - but not via Ta
     - TaContinuanceChallenge
       - subcontract the dev work for better value
