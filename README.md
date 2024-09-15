@@ -28,12 +28,12 @@
 
 
 <hr>
+PulseAggregation for ...
 
-- PulseAggregation for ...
-  - ...
-  - keep monitoring the Pulse induced ColorChanges
-    - does it appear at 30+ ?
-      - larger editCounts should reveal the impact more easily
+- ...
+- keep monitoring the Pulse induced ColorChanges
+  - does it appear at 30+ ?
+    - larger editCounts should reveal the impact more easily
 
 <hr>
 
