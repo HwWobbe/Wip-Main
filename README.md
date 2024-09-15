@@ -31,7 +31,8 @@
 
 - PulseAggregation for ...
   - ...
-  - keep monitoring the Pulse induced ColorChanges 
+  - keep monitoring the Pulse induced ColorChanges
+    - does it appear at 30+ ?
 
 <hr>
 
