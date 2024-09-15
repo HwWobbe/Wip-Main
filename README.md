@@ -26,6 +26,12 @@
   - AskPoeT: Summarize 3. Introduction ; 3.4 Background.Summary leading to ... progress
     - Asks Inventory: ( ... )
 
+
+<hr>
+
+- PulseAggregation of ...
+  - ...
+
 <hr>
 
 - GistShare:
