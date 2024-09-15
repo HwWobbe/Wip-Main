@@ -31,6 +31,7 @@
 
 - PulseAggregation for ...
   - ...
+  - keep monitoring the Pulse induced ColorChanges 
 
 <hr>
 
