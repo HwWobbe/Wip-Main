@@ -18,6 +18,8 @@
   - scope will be impacted by Funding
     - stress a Decade of IFS funding (2 Events) for the 2030s
       - embraces the completed Standards work and preempts it
+  = ask about progress and how it should be reported 
+
 
 - consider Ideas from: BotHww.UniCode
   - link via myGIST(s)
