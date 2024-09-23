@@ -36,7 +36,7 @@ PulseAggregation for ...
 - keep monitoring the Pulse induced ColorChanges
   - does it appear at 30+ ?  Now to see.
     - larger editCounts should reveal the impact more easily
- - TnT: ... 
+ - TnT: Test links to other repos more extensively now that more integration is emerging.
 
 <hr>
 
