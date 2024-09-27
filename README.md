@@ -3,6 +3,7 @@
 - Excel dataQuality reviews via Toma
   - "MWS" > Azure promotion(s) structured
     - consider a Pause until DplT-11- availability ...
+      - let Els suggest when he thinks MWS is is an effective integration
   - GIS library links per JrH - but not via Ta
     - TaContinuanceChallenge
       - subcontract the dev work for better value
