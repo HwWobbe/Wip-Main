@@ -5,7 +5,7 @@
     - I could initiate this with SoW Milestones
       - do updates maintain indents automatically? 
    
-    -  <hr>
+  -  <hr>
 
 - Excel dataQuality reviews via Toma
   - "MWS" > Azure promotion(s) structured
