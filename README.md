@@ -2,7 +2,8 @@
 
 - can Lz 'wrangle' this?
   - trivial simple timesheet that must be completed
-    -  I could initiate this with SoW Milestones
+    - I could initiate this with SoW Milestones
+      - do updates maintain indents automatically? 
    
     -  <hr>
 
