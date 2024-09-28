@@ -1,5 +1,8 @@
 ###### Tt
 
+- can Lz 'wrangle' this?
+  - trivial simple timesheet that must be completed
+    -  I could initiate this with SoW Milestones
 - Excel dataQuality reviews via Toma
   - "MWS" > Azure promotion(s) structured
     - consider a Pause until DplT-11- availability ...
