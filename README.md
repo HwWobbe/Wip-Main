@@ -1,7 +1,9 @@
 ## 2024-10:
 ###### Tt
 
-- can Lz 'wrangle' this?
+- encourage Lz to 'wrangle' this - at least with Els
+  - suggested HlH & Penny demo
+    - get Penny's opinion - while Els is still engaged
   - trivial simple timesheet that must be completed
     - I could initiate this with SoW Milestones
       - do updates maintain indents automatically?
