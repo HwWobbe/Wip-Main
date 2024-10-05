@@ -8,6 +8,7 @@
     - I could initiate this with SoW Milestones
       - do updates maintain indents automatically?
         - apparently not.
+    - strive fopr a single interaction UI
    
   -  <hr>
 
