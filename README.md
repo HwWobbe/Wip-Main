@@ -8,7 +8,8 @@
     - I could initiate this with SoW Milestones
       - do updates maintain indents automatically?
         - apparently not.
-    - strive fopr a single interaction UI
+    - strive for a single interaction UI
+      - there could be an advantage to adopting a WayF ( DfWay )
    
   -  <hr>
 
