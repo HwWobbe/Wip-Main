@@ -1,6 +1,8 @@
 ## 2024-10:
 ###### Tt
 
+- preliminary EaOn reactions are quite encouraging for IVI
+  - ...
 - encourage Lz to 'wrangle' this - at least with Els
   - suggested HlH & Penny demo
     - get Penny's opinion - while Els is still engaged
