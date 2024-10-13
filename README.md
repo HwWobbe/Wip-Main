@@ -2,7 +2,8 @@
 ###### Tt
 
 - preliminary EaOn reactions are quite encouraging for IVI
-  - ...
+  - review the DS draft V0.1.0
+ 
 - encourage Lz to 'wrangle' this - at least with Els
   - suggested HlH & Penny demo
     - get Penny's opinion - while Els is still engaged
