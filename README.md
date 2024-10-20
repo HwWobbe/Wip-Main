@@ -16,7 +16,7 @@
     - strive for a single interaction UI
       - there could be an advantage to adopting a WayF ( DfWay )
   - the edits to the currentPrimary file over-power the shading ( effectively demoting the middle level )
-
+    - this was easilt recover with a single additional edit
    
   -  <hr>
 
