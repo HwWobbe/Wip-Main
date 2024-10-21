@@ -5,6 +5,7 @@
   - review the DS draft V0.1.0
     - it may be beneficial to cite the Authors of the first draft and the contributors
       - linkedToHere From DgH
+  - an Early ('25 call will $ timing impacts)
  
 - encourage Lz to 'wrangle' this - at least with Els
   - suggested HlH & Penny demo
