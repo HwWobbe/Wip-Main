@@ -2,6 +2,8 @@
 ###### Tn
 ...
 
+- exploit Ai more effectively
+  - Audience Tailored written summaries could help
 - ...
 
 <hr>
