@@ -5,7 +5,11 @@
   - review the DS draft V0.1.0
     - it may be beneficial to cite the Authors of the first draft and the contributors
       - linkedToHere From DgH
+  - review the last DsH submission
+    - decide on ways to build momentum, whilst avoiding premature Statements of Direction.
+      - can this be done my building on initial responses such as Greg's?
   - an Early ('25 call will $ timing impacts)
+  - 
  
 - encourage Lz to 'wrangle' this - at least with Els
   - suggested HlH & Penny demo
