@@ -15,6 +15,7 @@
   - review the DS draft V0.1.0
     - it may be beneficial to cite the Authors of the first draft and the contributors
       - linkedToHere From DgH
+        - discuss nextSteps with Dani
   - review the last DsH submission
     - decide on ways to build momentum, whilst avoiding premature Statements of Direction.
       - can this be done my building on initial responses such as Greg's?
