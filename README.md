@@ -19,6 +19,7 @@
   - review the last DsH submission
     - decide on ways to build momentum, whilst avoiding premature Statements of Direction.
       - can this be done my building on initial responses such as Greg's?
+- consider the implications of the apparent color changes
 - position for 2024-11
   - an Early ('25 call will $ timing impacts)
   - 
