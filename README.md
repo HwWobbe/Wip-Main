@@ -15,7 +15,7 @@
   - Assume Forgivness, without Permission delays, unless concensus iss really needed
     - craft Notes that explain the governing logic
       - "rank" the intended Audiences
-      - "time' the anticipated Audience - to build increasing Awareness
+      - "time' the anticipated Audience - to build increasing Awareness & Understanding
       - "position" (in the AWareness) of intenbded Audience
       - "Queue" all others for future use. (Queue growth shoulld be managed/mitigated via the 10 standard TimePeriods
       - 'space' ( 'place' ) will be a functions of needToBeAt, so also ...
