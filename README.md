@@ -12,6 +12,9 @@
 - exploit Ai more effectively
   - Audience Tailored written summaries could help
     - beter ConText definitions are needed
+  - Assume Forgivness, without Permission delays, unless concensus iss really needed
+    - craft Notes that explain the governing logic
+
 - ...
 
 <hr>
