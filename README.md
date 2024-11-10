@@ -14,7 +14,10 @@
     - beter ConText definitions are needed
   - Assume Forgivness, without Permission delays, unless concensus iss really needed
     - craft Notes that explain the governing logic
-      - "rank" the intended Audiences 
+      - "rank" the intended Audiences
+      - "time' the anticipated Audience
+      - "position" (in the AWareness) of intenbded Audience
+      - "Queue" all others for future use. (Queue growth shoulld be managed/mitigated via the 10 standard TimePeriods
 
 - ...
 
