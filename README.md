@@ -2,7 +2,7 @@
 ###### Tn
 ...
 
-- balance RopC & IVI focus
+- balance RoC & IVI focus
   - OnTheList.EaOn may be an effective starting point.
     - test this with
       - DfCaT
