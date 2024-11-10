@@ -18,6 +18,7 @@
       - "time' the anticipated Audience
       - "position" (in the AWareness) of intenbded Audience
       - "Queue" all others for future use. (Queue growth shoulld be managed/mitigated via the 10 standard TimePeriods
+      - 'space' ( 'place' ) will be a functions of needToBeAt, so also ...
 
 - ...
 
