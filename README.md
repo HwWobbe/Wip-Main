@@ -2,6 +2,9 @@
 ###### Tn
 ...
 
+- balance RopC & IVI focus
+  - OnTheList.EaOn may be an effective starting point.
+    - test this with DfCa
 - exploit Ai more effectively
   - Audience Tailored written summaries could help
     - beter ConText definitions are needed
