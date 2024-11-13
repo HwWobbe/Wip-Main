@@ -5,12 +5,11 @@
 - balance RoC & IVI focus
   - OnTheList.EaOn may be an effective starting point.
     - test this with
-      - DfCaT
+      - DfCaT - TerryP
       - LsT
-      - DaniT
+        - DaniT - resolve working Relationship(s) choices after LsH chat(s)
       - LzT
-      - TerryP
-     
+           
 - exploit Ai more effectively
   - Audience Tailored written summaries could help
     - beter ConText definitions are needed
