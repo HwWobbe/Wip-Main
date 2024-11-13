@@ -9,6 +9,8 @@
       - LsT
       - DaniT
       - LzT
+      - TerryP
+     
 - exploit Ai more effectively
   - Audience Tailored written summaries could help
     - beter ConText definitions are needed
