@@ -3,6 +3,10 @@
 ...
 
 - balance RoC & IVI focus
+  - how does EaQu collect revisions and update adresses
+    - CPC NcOa
+      - InnovaPost role at this time
+    - CB verification
   - OnTheList.EaOn may be an effective starting point.
     - test this with
       - DfCaT - TerryP
