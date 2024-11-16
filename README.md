@@ -9,8 +9,12 @@
         - Deloitte - must divest / GaryP
     - CB verification
       - Primary
-      - Secondary 
-    - exclusive -at least for elections
+        - exclusive -at least for elections
+      - Secondary
+        - need both bureaux
+     - realTime versus batch will be a factor
+     - Subject ExpressConsent should be a feature
+   
   - OnTheList.EaOn may be an effective starting point.
     - test this with
       - DfCaT - TerryP
