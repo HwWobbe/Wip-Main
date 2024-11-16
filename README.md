@@ -14,6 +14,7 @@
         - need both bureaux
      - realTime versus batch will be a factor
      - Subject ExpressConsent should be a feature
+       - term should match our Contract duration
    
   - OnTheList.EaOn may be an effective starting point.
     - test this with
