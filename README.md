@@ -15,6 +15,10 @@
      - realTime versus batch will be a factor
      - Subject ExpressConsent should be a feature
        - term should match our Contract duration
+    - over-papping sources are preferable
+      - clarify the appeal(s)
+
+
    
   - OnTheList.EaOn may be an effective starting point.
     - test this with
