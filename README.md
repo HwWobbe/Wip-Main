@@ -8,6 +8,9 @@
       - InnovaPost role - at this time
         - Deloitte - must divest / GaryP
     - CB verification
+      - Primary
+      - Secondary 
+    - exclusive -at least for elections
   - OnTheList.EaOn may be an effective starting point.
     - test this with
       - DfCaT - TerryP
