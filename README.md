@@ -2,6 +2,8 @@
 ###### Tn
 ...
 
+- review the AnJoTt material
+  - print it
 - balance RoC & IVI focus
   - how does EaQu collect revisions and update adresses
     - CPC NcOa
