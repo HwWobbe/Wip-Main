@@ -4,6 +4,9 @@
 
 - review the AnJoTt material
   - print it
+  - observe the relative focus indicxators
+    - check the TomaA Prs
+   
 - balance RoC & IVI focus
   - how does EaQu collect revisions and update adresses
     - CPC NcOa
