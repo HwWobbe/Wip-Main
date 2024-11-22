@@ -6,6 +6,7 @@
   - print it
   - observe the relative focus indicxators
     - check the TomaA Prs
+      - it may be easier to judge the colors by compareing those in the annualSummary
    
 - balance RoC & IVI focus
   - how does EaQu collect revisions and update adresses
