@@ -11,6 +11,7 @@
   - observe the relative focus indicxators
     - check the TomaA Prs
       - it may be easier to judge the colors by comparing those in the annualSummary
+        - try a 2:1 ratio of updates (for color significance)
    
 - balance RoC & IVI focus
   - how does EaQu collect revisions and update adresses
