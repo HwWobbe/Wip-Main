@@ -3,7 +3,7 @@
 ...
 
 - review the AnJoTt material
-  - print it
+  - print it ; then post at DgH
   - observe the relative focus indicxators
     - check the TomaA Prs
       - it may be easier to judge the colors by comparing those in the annualSummary
