@@ -8,11 +8,11 @@
       - these can include bubbleViews & pageViews as well as Notes.
         - encourage the use of comments
           - suggest the use of other RePos
-  - observe the relative focus indicxators
+  - observe the relative focus indicators
     - check the TomaA Prs
       - it may be easier to judge the colors by comparing those in the annualSummary
         - try a 2:1 ratio of updates (for color significance)
-          - explore the 2 X lower sum
+          - explore the 2 X lower sum edits 
    
 - balance RoC & IVI focus
   - how does EaQu collect revisions and update adresses
