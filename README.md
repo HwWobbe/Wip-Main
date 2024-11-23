@@ -6,6 +6,8 @@
   - print it ; then post at DgH
     - craft Audience previews that chainLink the pages and cluster them
       - these can include bubbleViews & pageViews as well as Notes.
+        - encourage the use of comments
+          - suggest the use of other RePos
   - observe the relative focus indicxators
     - check the TomaA Prs
       - it may be easier to judge the colors by comparing those in the annualSummary
