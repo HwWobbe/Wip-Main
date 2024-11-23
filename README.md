@@ -14,6 +14,7 @@
         - try a 2:1 ratio of updates (for color significance)
           - explore the 2 X lower sum edits
             - one last greaterThan edit
+              - deferring further tests of this theory
    
 - balance RoC & IVI focus
   - how does EaQu collect revisions and update adresses
