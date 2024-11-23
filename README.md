@@ -12,7 +12,8 @@
     - check the TomaA Prs
       - it may be easier to judge the colors by comparing those in the annualSummary
         - try a 2:1 ratio of updates (for color significance)
-          - explore the 2 X lower sum edits 
+          - explore the 2 X lower sum edits
+            - one last greaterThan edit
    
 - balance RoC & IVI focus
   - how does EaQu collect revisions and update adresses
