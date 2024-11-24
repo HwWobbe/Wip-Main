@@ -2,6 +2,9 @@
 ###### Tn
 ...
 
+- add quickLinks
+  - ...
+
 - review the AnJoTt material
   - print it ; then post at DgH
     - craft Audience previews that chainLink the pages and cluster them
