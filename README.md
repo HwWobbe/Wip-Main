@@ -4,7 +4,7 @@
 
 - add quickLinks
   - find an exemplary instance
-    - ...
+    - strive to craft a separate file/page
 
 - review the AnJoTt material
   - print it ; then post at DgH
