@@ -12,6 +12,7 @@
       - these can include bubbleViews & pageViews as well as Notes.
         - encourage the use of comments
           - suggest the use of other RePos
+            - especially if they improve PDF support
   - observe the relative focus indicators
     - check the TomaA Prs
       - it may be easier to judge the colors by comparing those in the annualSummary
