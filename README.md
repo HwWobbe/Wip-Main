@@ -45,6 +45,7 @@
       - LsT
         - DaniT - resolve working Relationship(s) choices after LsH chat(s)
       - LzT
+     - AddToPin is a shortcut to revenue
            
 - exploit Ai more effectively
   - Audience Tailored written summaries could help
