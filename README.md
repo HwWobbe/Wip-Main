@@ -13,6 +13,7 @@
         - encourage the use of comments
           - suggest the use of other RePos
             - especially if they improve PDF support
+- push ahead with this development since it is a valuable part of the bootstrapping process
   - observe the relative focus indicators
     - check the TomaA Prs
       - it may be easier to judge the colors by comparing those in the annualSummary
