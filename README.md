@@ -15,7 +15,7 @@
             - especially if they improve PDF support
 - push ahead with this development since it is a valuable part of the bootstrapping process
   -try applying this new knowledge to the GISTs
-    - try abnother PR once the 50 changes level is attained
+    - try another PR once the 50 changes level is attained
   - observe the relative focus indicators
     - check the TomaA Prs
       - it may be easier to judge the colors by comparing those in the annualSummary
