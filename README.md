@@ -1,12 +1,12 @@
 ## 2024-12:
-
-## 2024-11:
 ###### Tn
 ...
 
 - add quickLinks
   - find an exemplary instance
     - strive to craft a separate file/page
+
+## 2024-11:
 
 - review the AnJoTt material
   - print it ; then post at DgH
