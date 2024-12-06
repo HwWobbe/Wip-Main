@@ -5,7 +5,9 @@
 - add quickLinks
   - find an exemplary instance
     - strive to craft a separate file/page
-
+- morph this in ways that encourage convergance
+  - ...
+ 
 ## 2024-11:
 
 - review the AnJoTt material
