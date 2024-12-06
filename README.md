@@ -7,6 +7,7 @@
     - strive to craft a separate file/page
 - morph this in ways that encourage convergance
   - ...
+- consider https://github.com/features/copilot/extensions
  
 ## 2024-11:
 
