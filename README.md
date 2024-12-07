@@ -8,6 +8,7 @@
 - add quickLinks
   - find an exemplary instance
     - strive to craft a separate file/page
+     - via a PR
       - make adequate Notes
 - morph this in ways that encourage convergance
   - testing 3 X theSum of lower values - as a shading test 
