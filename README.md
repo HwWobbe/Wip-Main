@@ -10,7 +10,7 @@
     - strive to craft a separate file/page
       - make adequate Notes
 - morph this in ways that encourage convergance
-  - ...
+  - testing 3 X theSum of lower values - as a shading test 
 - consider https://github.com/features/copilot/extensions
  
 ## 2024-11:
