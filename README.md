@@ -5,6 +5,7 @@
 - add quickLinks
   - find an exemplary instance
     - strive to craft a separate file/page
+      - make adequate Notes
 - morph this in ways that encourage convergance
   - ...
 - consider https://github.com/features/copilot/extensions
