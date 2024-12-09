@@ -12,6 +12,8 @@
 
 - slowly working through the Desktop implementation to ensure all is installed adequately on thie new system.
   - will start with the NotePad editor
+  - continue working in this repo since it is relatively unclutter
+    - interface/integrate the GISTs sooner rather than later
 - add quickLinks
   - find an exemplary instance
     - strive to craft a separate file/page
