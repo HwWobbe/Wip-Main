@@ -48,7 +48,7 @@
           - explore the 2 X lower sum edits
             - one last greaterThan edit
               - deferring further tests of this theory
-      - it may be more effective to stay focused on the 2nd repo since the current assumption is that the 1st is based on the sum of the subordinates
+      - It may be more effective to stay focused on the 2nd repo since the current assumption is that the 1st is based on the sum of the subordinates.  Monitor the wrapping of this longer text block.
    
 - balance RoC & IVI focus
   - how does EaQu collect revisions and update adresses
