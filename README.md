@@ -24,6 +24,7 @@
 - morph this in ways that encourage convergance
   - testing 3 X theSum of lower values - as a shading test
     - observe when the next shading drop happens to determine the lower limit
+      - this may be based on a comparison of the shadings given current vision issues
 - consider https://github.com/features/copilot/extensions
  
 ## 2024-11:
