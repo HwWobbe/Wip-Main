@@ -10,6 +10,8 @@
 ## 2024-12:
 ...
 
+- slowly working through the Desktop implementation to ensure all is installed adequately on thie new system.
+  - will start with the NotePad editor
 - add quickLinks
   - find an exemplary instance
     - strive to craft a separate file/page
