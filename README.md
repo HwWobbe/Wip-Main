@@ -26,6 +26,7 @@
     - observe when the next shading drop happens to determine the lower limit
       - this may be based on a comparison of the shadings given current vision issues
         - progress may be even slower during the recovery period of a month
+          - strive avoid over-planning this
 - consider https://github.com/features/copilot/extensions
  
 ## 2024-11:
