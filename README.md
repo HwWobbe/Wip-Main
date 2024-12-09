@@ -22,7 +22,8 @@
      - via a PR
       - make adequate Notes
 - morph this in ways that encourage convergance
-  - testing 3 X theSum of lower values - as a shading test 
+  - testing 3 X theSum of lower values - as a shading test
+    - observe when the next shading drop happens to determine the lower limit
 - consider https://github.com/features/copilot/extensions
  
 ## 2024-11:
