@@ -14,7 +14,8 @@
   - will start with the NotePad editor
   - continue working in this repo since it is relatively unclutter
     - interface/integrate the GISTs sooner rather than later
-      - verify Save counts
+      - verified Save counts - all seems well
+     
 - add quickLinks
   - find an exemplary instance
     - strive to craft a separate file/page
