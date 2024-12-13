@@ -7,6 +7,8 @@
     - interfacing GitHub & Azure
     - SqLite uses
 
+<hr>
+
 ## 2024-12:
 ...
 
