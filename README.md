@@ -4,6 +4,8 @@
 
 - consider:
   - TA's role as of 2025-01
+    - GIS data lib interfaces
+      - try to find an example in Jeremy's tests
     - interfacing GitHub & Azure
     - SqLite uses
 
