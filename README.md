@@ -3,9 +3,9 @@
 ...
 
 - consider:
-  - interfacing GitHub & Azure
-  - SqLite uses
   - TA's role as of 2025-01
+    - interfacing GitHub & Azure
+    - SqLite uses
 
 ## 2024-12:
 ...
