@@ -9,7 +9,8 @@
     - interfacing GitHub & Azure
     - SqLite uses
     - ...
-- I may have to craft thhis as a short SoW that leads to an intermediate and then a final one
+  - I may have to craft thhis as a short SoW that
+    - leads to an intermediate and then a final one
 
 
 <hr>
