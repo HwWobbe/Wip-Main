@@ -1,7 +1,8 @@
 ## 2025-12:
 ###### Tn
 - try linking directly to the preceding heading
-
+  - https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#tn
+  
 - consider:
   - TA's role as of 2025-01
     - GIS data lib interfaces
