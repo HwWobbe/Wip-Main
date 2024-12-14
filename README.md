@@ -1,6 +1,6 @@
 ## 2025-12:
 ###### Tn
-...
+- try linking directly to the preceding heading
 
 - consider:
   - TA's role as of 2025-01
