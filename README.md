@@ -18,6 +18,7 @@
       - then a final one ...
     - review the community posts
 
+- set uo a separate CharsH.favs file within GitHub 
 
 <hr>
 
