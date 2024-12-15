@@ -22,7 +22,7 @@
   - most significant 
   - most frequently used
   - most needed reminders
-  - sharedWith: ...
+  - sharedWith: { might be postedTt )
 
 <hr>
 
