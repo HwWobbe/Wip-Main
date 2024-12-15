@@ -18,7 +18,11 @@
       - then a final one ...
     - review the community posts
 
-- set uo a separate CharsH.favs file within GitHub 
+- set up CharsH.favs file within GitHub, containing
+  - most significant 
+  - most frequently used
+  - most needed reminders
+  - sharedWith: ...
 
 <hr>
 
