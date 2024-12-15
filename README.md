@@ -2,6 +2,7 @@
 ###### Tn
 - use https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#tn
   - make this a prettyLink
+    - avoid the tabOpening
   
 - consider:
   - TA's role as of 2025-01
