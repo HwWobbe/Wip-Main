@@ -10,7 +10,7 @@
       - try to find an example in Jeremy's tests
         - focus on the LaLo issues
     - interfacing GitHub & Azure
-    - SqLite uses
+    - SqLite uses - especially if entertwined with GIS 
   - review prior emails
  
   - I may have to craft this as a short SoW that ...
