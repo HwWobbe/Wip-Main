@@ -1,4 +1,7 @@
+## 2025-01:
+
 ## 2025-12:
+
 ###### Tn
 - use https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#tn
   - make this a prettyLink
@@ -11,7 +14,17 @@
         - bear in mind the benefits of Defence, in the event of Challenge
           - check the fine-print for limitations
             - should this be done as a second (trial) project?
-  - TA's role as of 2025-01
+  
+- set up CharsH.favs file within GitHub, containing
+  - most significant 
+  - most frequently used
+  - most needed reminders
+  - sharedWith: { might be postedTt )
+
+##### TaRole
+...
+
+- TA's role as of 2025-01
     - GIS data lib interfaces
       - try to find an example in Jeremy's tests
         - focus on the LaLo issues
@@ -23,12 +36,6 @@
     - leads to an intermediate and ...
       - then a final one ...
     - review the community posts
-
-- set up CharsH.favs file within GitHub, containing
-  - most significant 
-  - most frequently used
-  - most needed reminders
-  - sharedWith: { might be postedTt )
 
 <hr>
 
