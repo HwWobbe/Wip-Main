@@ -7,6 +7,7 @@
 - consider:
   - dscuss this with Katie@Boast
     - ideally their "on-going' methodology will be able to reduce the needs to myThoughts and LzWrangling
+      - ensure an adequate discussion of Fees and Charges
   - TA's role as of 2025-01
     - GIS data lib interfaces
       - try to find an example in Jeremy's tests
