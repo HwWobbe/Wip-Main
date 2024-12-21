@@ -10,6 +10,7 @@
       - ensure an adequate discussion of Fees and Charges
         - bear in mind the benefits of Defence, in the event of Challenge
           - check the fine-print for limitations
+            - should this be done as a second (trial) project?
   - TA's role as of 2025-01
     - GIS data lib interfaces
       - try to find an example in Jeremy's tests
