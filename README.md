@@ -1,6 +1,7 @@
 ## 2025-01:
 
 - use https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#TaRole
+- review the folder structure
 
 ## 2025-12:
 
