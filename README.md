@@ -2,7 +2,8 @@
 
 - use https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#TaRole
 - review the folder structure
-
+  - ensure adequate notes re moving files into folders
+ 
 ## 2025-12:
 
 ###### Tn
