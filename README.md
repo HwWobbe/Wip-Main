@@ -3,7 +3,12 @@
 - use https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#TaRole
 - review the folder structure
   - ensure adequate notes re moving files into folders
-    - update the Conference presentation     
+    - update the Conference presentation
+      - stay aware of the need for a Vision that encomasses:
+        - RoC - Federally and for Cities
+          - EaCa
+      - VbM needs
+      - Telephone voting needs
  
 ## 2025-12:
 
