@@ -11,6 +11,8 @@
       - Telephone voting needs
   - competition has been a driver but NeverAgain needs more resources
     - Chicked and Egg bootstrapping is likely
+  - budgeting refinements are needed to manage cash pulses
+- also needed for improved Governance / ReviewEngagement
  
 ## 2025-12:
 
