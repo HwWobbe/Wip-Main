@@ -13,7 +13,14 @@
     - Chicked and Egg bootstrapping is likely
   - budgeting refinements are needed to manage cash pulses
 - also needed for improved Governance / ReviewEngagement
- 
+
+
+## 2025-11:
+...
+
+- 2025-11-01 is the start of F2026
+
+
 ## 2025-12:
 
 ###### Tn
