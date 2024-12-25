@@ -9,6 +9,8 @@
           - EaCa
       - VbM needs
       - Telephone voting needs
+  - competition has been a driver but NeverAgain needs more resources
+    - Chicked and Egg bootstrapping is likely
  
 ## 2025-12:
 
