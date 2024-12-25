@@ -3,6 +3,7 @@
 - use https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#TaRole
 - review the folder structure
   - ensure adequate notes re moving files into folders
+    - update the Conference presentation     
  
 ## 2025-12:
 
