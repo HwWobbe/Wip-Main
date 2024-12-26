@@ -3,6 +3,7 @@
 - use https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#TaRole
 - review the folder structure
   - ensure adequate notes re moving files into folders
+    - print the existing material
     - update the Conference presentation
       - stay aware of the need for a Vision that encomasses:
         - RoC - Federally and for Cities
