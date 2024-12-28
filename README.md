@@ -7,6 +7,7 @@
       - co-ordinate the Paper and Electronic files - indexing should be merged
         - this may need additional intermediate pages (files)
           - at least as long as I persist in Pulse mthodologies
+            - rather than progressing to off-line updates
     - update the Conference presentation
       - stay aware of the need for a Vision that encomasses:
         - RoC - Federally and for Cities
