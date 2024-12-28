@@ -15,7 +15,7 @@
       - Client/Customer needs do need to be addressed
         -  this may be part of the NFP debate
           -  which should likely be addressed at DebateGraph
-            -  after some initial assessments of the two different ConText(s)
+            - after some initial assessments of the two different ConText(s)
       - VbM needs
       - Telephone voting needs
   - competition has been a driver but NeverAgain needs more resources
