@@ -5,6 +5,7 @@
   - ensure adequate notes re moving files into folders
     - print the existing material
       - co-ordinate the Paper and Electronic files - indexing should be merged
+        - this may need addition intermediate pages (files)
     - update the Conference presentation
       - stay aware of the need for a Vision that encomasses:
         - RoC - Federally and for Cities
