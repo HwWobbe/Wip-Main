@@ -12,6 +12,8 @@
       - stay aware of the need for a Vision that encomasses:
         - RoC - Federally and for Cities
           - EaCa
+      - Client/Customer needs do need to be addressed
+        -  this may be part of the NFP debate
       - VbM needs
       - Telephone voting needs
   - competition has been a driver but NeverAgain needs more resources
