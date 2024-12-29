@@ -1,5 +1,7 @@
 ## 2025-01:
 
+### these notes need to evolve more rapidly
+
 - use https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#TaRole
 - review the folder structure
   - ensure adequate notes re moving files into folders
