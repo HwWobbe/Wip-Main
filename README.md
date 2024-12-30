@@ -11,7 +11,7 @@
           - at least as long as I persist in Pulse mthodologies
             - rather than progressing to off-line updates
     - update the Conference presentation
-      - stay aware of the need for a Vision that encomasses:
+      - stay aware of the need for a Vision that encompasses:
         - RoC - Federally and for Cities
           - EaCa
       - Client/Customer needs do need to be addressed
