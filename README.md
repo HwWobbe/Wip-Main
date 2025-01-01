@@ -1,5 +1,7 @@
 ## 2025-01:
 
+#### 2025-01-01
+
 ### these notes need to evolve more rapidly
 
 - use https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#TaRole
