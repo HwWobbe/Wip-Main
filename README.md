@@ -16,6 +16,8 @@
       - stay aware of the need for a Vision that encompasses:
         - RoC - Federally and for Cities
           - EaCa
+        - plead the need - driven by Going... > Growing < RevEng < OPM
+ 
       - Client/Customer needs do need to be addressed
         - this may be part of the NFP debate
           - which should likely be addressed at DebateGraph
