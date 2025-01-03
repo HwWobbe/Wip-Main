@@ -6,6 +6,7 @@
 
 - the prospect of merging CurbSide's location functions MwsTech.Authentication functions is increasingly appealing
   - SqLite is a contender to the extent that Jr wants to move TW's infrastructure into that environment ultimately.
+    - application changes will be needed
 
 - use https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#TaRole
 - review the folder structure
