@@ -5,7 +5,7 @@
 ### these notes need to evolve more rapidly
 
 - the prospect of merging CurbSide's location functions MwsTech.Authentication functions is increasingly appealing
-  - XSqLite is a contender to the extent that Jeremy wants to move TW's infrastructure into that environment ultimately.
+  - SqLite is a contender to the extent that Jeremy wants to move TW's infrastructure into that environment ultimately.
 
 - use https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#TaRole
 - review the folder structure
