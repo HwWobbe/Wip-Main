@@ -32,6 +32,10 @@
             - after some initial assessments of the two different ConText(s)
       - VbM needs
       - Telephone voting needs
+        - indigenous - with SJ ?
+          - discuss LsHw
+            - I.P. ?
+   
   - competition has been a driver but NeverAgain needs more resources
     - Chicken and Egg bootstrapping is likely
   - budgeting refinements are needed to manage cash pulses
