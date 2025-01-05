@@ -9,6 +9,7 @@
     - application changes will be needed
 
 - re-schedule the Authentication Architecture discussion until after OnTheList progress is obvious.
+  - no question that it is necessary, but when I choose to support the development a matter for SoWs
 
 - use https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#TaRole
 - review the folder structure
