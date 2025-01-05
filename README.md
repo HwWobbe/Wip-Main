@@ -10,6 +10,7 @@
 
 - re-schedule the Authentication Architecture discussion until after OnTheList progress is obvious.
   - no question that it is necessary, but when I choose to support the development a matter for SoWs
+    - workDetails workTiming workCosts paymentTerms ...
 
 - use https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#TaRole
 - review the folder structure
