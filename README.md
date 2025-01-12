@@ -9,7 +9,7 @@
     - application changes will be needed
       - Els is optimitic about the new Capabilities Jr has proposed
     - AAs work could exopedite this development
-  - DplT: do we have a ciporate RePo?
+  - DplT: do we have a corporate repo?
     - if so, can access to some of its components be restricted?
     - ...
 
