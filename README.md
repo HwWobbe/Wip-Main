@@ -7,6 +7,7 @@
 - the prospect of merging CurbSide's location functions MwsTech.Authentication functions is increasingly appealing
   - SqLite is a contender to the extent that Jr wants to move TW's infrastructure into that environment ultimately.
     - application changes will be needed
+      - Els is optimitic about the new Capabilities Jr has proposed
 
 - re-schedule the Authentication Architecture discussion until after OnTheList progress is obvious.
   - no question that it is necessary, but when I choose to support the development a matter for SoWs
