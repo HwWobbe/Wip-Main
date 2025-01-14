@@ -1,5 +1,7 @@
 ## 2025-01:
 
+#### 2025-01-14
+
 #### 2025-01-05
 
 ### these notes need to evolve more rapidly
