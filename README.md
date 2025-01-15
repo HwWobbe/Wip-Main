@@ -1,6 +1,7 @@
 ## 2025-01:
 
 #### 2025-01-14
+- provided a new set of GOing ( to be ) GROWing points.
 
 #### 2025-01-05
 
