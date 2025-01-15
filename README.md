@@ -3,6 +3,7 @@
 #### 2025-01-14
 - provided a new set of GOing ( to be ) GROWing points.
   - offer calls to expedite information exchange
+    - allow time for G's review - no surprizes
 
 #### 2025-01-05
 
