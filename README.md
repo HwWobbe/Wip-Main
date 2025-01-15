@@ -1,7 +1,7 @@
 ## 2025-01:
 
 #### -15
-- refine the Ethics prompt and prepared copies for distribution in the imminent discussion,
+- refine the Ethics prompt and find the prepared copies for distribution in the imminent discussion,
 
 #### 2025-01-14
 - provided a new set of GOing ( to be ) GROWing points.
