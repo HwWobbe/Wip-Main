@@ -6,6 +6,8 @@
 * TopicClusters obviously need to emerge
   * this is one aspect of the Quest for Productivity via InformationDensity ( via MetaData )
  
+* Extend EdDf into the IVI support activities
+ 
 #### -15
 - refine the Ethics prompt and find the prepared copies for distribution in the imminent discussion,
   - ...
