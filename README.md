@@ -3,10 +3,12 @@
 #### -16
 - extend the Transitions concepts for GOing to GROWing to include extention of the CEO > Chair transition for the end of the 2020s
 
-* TopicClusters obviously need to emerge
-  * this is one aspect of the Quest for Productivity via InformationDensity ( via MetaData )
+- TopicClusters obviously need to emerge
+  - this is one aspect of the Quest for Productivity via InformationDensity ( via MetaData )
  
-* Extend EdDf into the IVI support activities
+- Extend EdDf into the IVI support activities
+  - start with 55-45 for DS
+    -  rebalance as growth in Revenues happens
  
 #### -15
 - refine the Ethics prompt and find the prepared copies for distribution in the imminent discussion,
