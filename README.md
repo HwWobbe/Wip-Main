@@ -1,12 +1,11 @@
 ## 2025-01:
 
 #### -16
+- extend the Transitions concepts for GOing to GROWing to include extention of the CEO > Chair transition for the end of the 2020s
 
 #### -15
 - refine the Ethics prompt and find the prepared copies for distribution in the imminent discussion,
   - ...
-
-- extend the Transitions concepts for GOing to GROWing to include extention of the CEO > Chair transition for the end of the 2020s
 
 -  refine the ways to build GitHub files into pages
   -  review the GIST(s)
