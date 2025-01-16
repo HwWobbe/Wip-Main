@@ -7,7 +7,7 @@
       - its standard BigCo CEO gets " the team I trust "
         - termination risks/costs ??
       - worst pain will be realizing "loss of negotiarion" and Labyrinth's "You have no power over me".
-    - LS gets this since given the emhathis of DEO contracts in past discussions
+    - LS gets this since given the emphathsis on CEO contracts in past discussions
 
 - TopicClusters obviously need to emerge
   - this is one aspect of the Quest for Productivity via InformationDensity ( via MetaData )
