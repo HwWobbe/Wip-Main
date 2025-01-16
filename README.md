@@ -6,8 +6,10 @@
 - refine the Ethics prompt and find the prepared copies for distribution in the imminent discussion,
   - ...
 
--  refine the ways to bnuild GitHub files into pages
-  -  reciew the GIST(s)
+- extend the Transitions concepts for GOing to GROWing to include extention of the CEO > Chair transition for the end of the 2020s
+
+-  refine the ways to build GitHub files into pages
+  -  review the GIST(s)
 
 #### 2025-01-14
 - provided a new set of GOing ( to be ) GROWing points.
