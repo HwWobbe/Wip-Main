@@ -2,6 +2,10 @@
 
 #### -16
 - extend the Transitions concepts for GOing to GROWing to include extention of the CEO > Chair transition for the end of the 2020s
+  - discuss "make the deal, regardless" then pay the lawyers to clean it up and make it legally acceptable
+    - can this be woven into the AasDiat fabric?
+      - its standard BigCo CEO gets " the team I trust "
+        - termination risks/costs ??
 
 - TopicClusters obviously need to emerge
   - this is one aspect of the Quest for Productivity via InformationDensity ( via MetaData )
