@@ -9,6 +9,7 @@
 - Extend EdDf into the IVI support activities
   - start with 55-45 for DS
     -  rebalance as growth in Revenues happens
+      -  asmyptote should be +$1 of competeing sources
  
 #### -15
 - refine the Ethics prompt and find the prepared copies for distribution in the imminent discussion,
