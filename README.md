@@ -6,6 +6,7 @@
     - can this be woven into the AasDiat fabric?
       - its standard BigCo CEO gets " the team I trust "
         - termination risks/costs ??
+    - LS gets this since given the emhathis of DEO contracts in past discussions
 
 - TopicClusters obviously need to emerge
   - this is one aspect of the Quest for Productivity via InformationDensity ( via MetaData )
