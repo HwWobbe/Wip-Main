@@ -8,6 +8,7 @@
         - termination risks/costs ??
       - worst pain will be realizing "loss of negotiarion" and Labyrinth's "You have no power over me".
     - LS gets this since given the emphathsis on CEO contracts in past discussions
+  - LZ will understand & may appreciate this
 
 - TopicClusters obviously need to emerge
   - this is one aspect of the Quest for Productivity via InformationDensity ( via MetaData )
