@@ -1,5 +1,8 @@
 ## 2025-01:
 
+#### -17
+...
+
 #### -16
 - extend the Transitions concepts for GOing to GROWing to include extention of the CEO > Chair transition for the end of the 2020s
   - discuss "make the deal, regardless" then pay the lawyers to clean it up and make it legally acceptable
