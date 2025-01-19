@@ -1,11 +1,8 @@
 ## 2025-01:
 
-#### -18
-- determin how it might be possible to harsent the comments of Suqeeeaks
-  - ...
-
-#### -17
-- UniCode "diat" has been hard to find again
+### -01-19:
+-18: determine how it might be possible to harsent the comments of Suqeeeaks
+-17: UniCode "diat" has been hard to find again
 
 #### -16
 - extend the Transitions concepts for GOing to GROWing to include extention of the CEO > Chair transition for the end of the 2020s
