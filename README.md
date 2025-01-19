@@ -1,5 +1,9 @@
 ## 2025-01:
 
+#### -18
+- determin how it might be possible to harsent the comments of Suqeeeaks
+  - ...
+
 #### -17
 - UniCode "diat" has been hard to find again
 
