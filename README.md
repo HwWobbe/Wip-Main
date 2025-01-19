@@ -1,7 +1,7 @@
 ## 2025-01:
 
 #### -17
-- UniCode "diat" is hard to find again
+- UniCode "diat" has been hard to find again
 
 #### -16
 - extend the Transitions concepts for GOing to GROWing to include extention of the CEO > Chair transition for the end of the 2020s
