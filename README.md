@@ -1,3 +1,10 @@
+## 2025-02:
+- resume Convention work
+  - at the start of 2025-02
+    - ...
+
+<hr>
+
 ## 2025-01:
 
 ### -01-19:
