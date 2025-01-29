@@ -6,6 +6,10 @@
 <hr>
 
 ## 2025-01:
+-29: discussed EdD refinements with LsH
+  - strive for 600k rathert than 300k
+    - use boast ...
+      - automated to the extent possible
 
 ### -01-19:
 
