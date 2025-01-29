@@ -11,7 +11,7 @@
 
 19: ...
 
--18: determine how it might be possible to harsent the comments of Suqeeeaks 
+-18: determine how it might be possible to harnes the comments of Suqeeeaks 
 
 -17: UniCode "diat" has been hard to find again
 
