@@ -9,9 +9,9 @@
 
 ## 2025-01:
 -29: discussed EdD refinements with LsH
-  - strive for 600k rathert than 300k
+  - strive for 600k rather than 300k
     - use boast ...
-      - automated to the extent possible
+      - automated to the extent possible & managed via LzT
 
 #### 2025-01-05
 
