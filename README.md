@@ -6,6 +6,7 @@
     - this edit is outside of an active PR.  Does that trigger Conflicts to resolve?
   - determine if OnTheList should become a separate RePo
     - assume so for the moment and work towards that goal
+      - this assumption should ease my initial use of RAG
   - open an initial PR for this month
 
 <hr>
