@@ -6,6 +6,7 @@
         - should Dani or Serge be engaged next?
           - communication should start with Dani
             - confirm Hlh < LzH
+    - trigger the "your CoPilot" 
            
 - resume Convention work
   - at the start of 2025-02
