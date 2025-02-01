@@ -2,7 +2,11 @@
 - setup the additional Sponsorships
   - explain this to TA
     - verify that Boast tools will capture needed information effectively
-      - discuss this with Dpl as post of expanded EdD for workLoad reduction and enhganced Training
+      - discuss this with Dpl as post of expanded EdD for workLoad reduction and enhanced Training
+        - should Dani or Serge be engaged next?
+          - communication should start with Dani
+            - confirm Hlh < LzH
+           
 - resume Convention work
   - at the start of 2025-02
     - rename 2025- to 2025-.mm ??
