@@ -1,4 +1,7 @@
 ## 2025-02:
+This month has been broken down into three "decimal fortnights" as follows          
+
+### 2025-02-09:
 - setup the additional Sponsorships
   - explain this to TA
     - verify that Boast tools will capture needed information effectively
@@ -6,8 +9,9 @@
         - should Dani or Serge be engaged next?
           - communication should start with Dani
             - confirm Hlh < LzH
-    - trigger the "your CoPilot" 
-           
+- trigger another Ask of "your CoPilot"
+
+### 2025-02-19:
 - resume Convention work
   - at the start of 2025-02
     - rename 2025- to 2025-.mm ??
@@ -16,7 +20,10 @@
   - determine if OnTheList should become a separate RePo
     - assume so for the moment and work towards that goal
       - this assumption should ease my initial use of RAG
-  - open an initial PR for this month
+
+### 2025-02-28:
+- open a final PR for this month and, ideally, merge it.
+
 
 <hr>
 
