@@ -5,6 +5,7 @@
   - confirm the number of 2025-01 headings & resolve as needed
     - this edit is outside of an active PR.  Does that trigger Conflicts to resolve?
   - determine if OnTheList should become a separate RePo
+    - assume so for the moment and work towards that goal
 
 <hr>
 
