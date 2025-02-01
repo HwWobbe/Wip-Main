@@ -3,7 +3,8 @@
   - at the start of 2025-02
     - rename 2025- to 2025-.mm ??
   - confirm the number of 2025-01 headings & resolve as needed
-    - this edit is outside of an active PR.  Wdoes that trigger Conflicts to resolve?
+    - this edit is outside of an active PR.  Does that trigger Conflicts to resolve?
+  - determine if OnTheList should become a separate RePo
 
 <hr>
 
