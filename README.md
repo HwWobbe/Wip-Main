@@ -1,4 +1,6 @@
 ## 2025-02:
+- setup the additional Sponsorships
+  - explain this to TA
 - resume Convention work
   - at the start of 2025-02
     - rename 2025- to 2025-.mm ??
