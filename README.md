@@ -10,6 +10,8 @@
         - note the possible re-work will consume resources
           - this could be minimized according to reported procedures
             - test these
+  - first try using DgH as a source for small snippets like this
+    - perhaps " PiecemealContext "
  
 - This month has been broken down into three "decimal fortnights" as follows          
 
