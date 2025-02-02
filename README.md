@@ -1,5 +1,7 @@
 ## 2025-02:
-This month has been broken down into three "decimal fortnights" as follows          
+...
+
+- This month has been broken down into three "decimal fortnights" as follows          
 
 ### 2025-02-09:
 - setup the additional Sponsorships
