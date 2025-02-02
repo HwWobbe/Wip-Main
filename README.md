@@ -7,6 +7,9 @@
   - consider using a separate google docsFile
     - test this as a shared (via permissions) input
       - at least claude should be okay
+        - note the possible re-work will consume resources
+          - this could be minimized according to reported procedures
+            - test these
  
 - This month has been broken down into three "decimal fortnights" as follows          
 
