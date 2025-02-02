@@ -5,6 +5,8 @@
   - Can this be verified with existing documentation?
 - it is likely that a much larger ConText submission will be neede to make the Bots effective
   - consider using a separate google docsFile
+    - test this as a shared (via permissions) input
+      - at least claude should be okay
  
 - This month has been broken down into three "decimal fortnights" as follows          
 
