@@ -2,7 +2,7 @@
 ...
 
 - the "3XtheSumOfLowers" (for shading still seems to work
-  - can this be verified?
+  - Can this be verified with existing documentation?
 - This month has been broken down into three "decimal fortnights" as follows          
 
 ### 2025-02-09:
