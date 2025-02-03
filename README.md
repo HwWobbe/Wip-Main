@@ -3,6 +3,7 @@
 
 - the "3XtheSumOfLowers" (for shading still seems to work
   - Can this be verified with existing documentation?
+    - if not: continue experiments
 - it is likely that a much larger ConText submission will be neede to make the Bots effective
   - consider using a separate google docsFile
     - test this as a shared (via permissions) input
