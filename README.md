@@ -5,17 +5,7 @@
   - Can this be verified with existing documentation?
     - if not: continue experiments
     - if so: carryOn
-   
-- it is likely that a much larger ConText submission will be neede to make the Bots effective
-  - consider using a separate google docsFile (as opposed to DgH)
-    - test this as a shared (via permissions) input
-      - at least claude should be okay - confirm this
-        - note the possible re-work will consume resources
-          - this could be minimized according to reported procedures
-            - test these
-  - first try using DgH as a source for small snippets like this
-    - perhaps " PiecemealContext "
- 
+    
 - This month has been broken down into three "decimal fortnights" as follows          
 
 ### 2025-02-09:
@@ -27,6 +17,16 @@
           - communication should start with Dani
             - confirm Hlh < LzH
 - trigger another Ask of "your CoPilot"
+
+- it is likely that a much larger ConText submission will be neede to make the Bots effective
+  - consider using a separate google docsFile (as opposed to DgH)
+    - test this as a shared (via permissions) input
+      - at least claude should be okay - confirm this
+        - note the possible re-work will consume resources
+          - this could be minimized according to reported procedures
+            - test these
+  - first try using DgH as a source for small snippets like this
+    - perhaps " PiecemealContext "
 
 ### 2025-02-19:
 - resume Convention work
