@@ -9,7 +9,7 @@
 - it is likely that a much larger ConText submission will be neede to make the Bots effective
   - consider using a separate google docsFile (as opposed to DgH)
     - test this as a shared (via permissions) input
-      - at least claude should be okay
+      - at least claude should be okay - confirm this
         - note the possible re-work will consume resources
           - this could be minimized according to reported procedures
             - test these
