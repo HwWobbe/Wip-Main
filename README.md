@@ -1,10 +1,5 @@
 ## 2025-02:
 ...
-
-- the "3XtheSumOfLowers" (for shading still seems to work
-  - Can this be verified with existing documentation?
-    - if not: continue experiments
-    - if so: carryOn
     
 - This month has been broken down into three "decimal fortnights" as follows          
 
@@ -39,6 +34,11 @@
       - this assumption should ease my initial use of RAG
 
 ### 2025-02-28:
+- the "3XtheSumOfLowers" (for shading still seems to work
+  - Can this be verified with existing documentation?
+    - if not: continue experiments
+    - if so: carryOn
+
 - open a final PR for this month and, ideally, merge it.
 
 
