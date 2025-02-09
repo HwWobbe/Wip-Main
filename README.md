@@ -3,6 +3,7 @@
     
 - This month has been broken down into three "decimal fortnights" as follows
   - specifically: ... 2025-02-09 2025-02-19 2025-02-29
+    - use quickLinls rather than restructuring the page
 
 ### 2025-02-09:
 - setup the additional Sponsorships
