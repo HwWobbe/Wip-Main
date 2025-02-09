@@ -25,6 +25,8 @@
     - perhaps " PiecemealContext "
 
 ### 2025-02-19:
+- re(find) the prettyLinks markup
+  - ...
 - resume Convention work
   - at the start of 2025-02
     - rename 2025- to 2025-.mm ??
