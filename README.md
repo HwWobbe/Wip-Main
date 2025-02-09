@@ -43,6 +43,7 @@
   - Can this be verified with existing documentation?
     - if not: continue experiments
     - if so: carryOn
+  - it seems to take a lot of edits to test this theory
 
 - open a final PR for this month and, ideally, merge it.
 
