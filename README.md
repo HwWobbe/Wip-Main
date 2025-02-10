@@ -3,9 +3,9 @@
     
 - This month has been broken down into three "decimal fortnights" as follows
   - specifically: ... 2025-02-09 2025-02-19 2025-02-29
-    - use quickLinls rather than restructuring the page
+    - use quickLinks rather than restructuring the page
       - note: growth in comments as a result of ...Fo change(s)
-- ...
+- Confirm prettyLinks are functional and that the prior problem is now resolved.
 
 ### 2025-02-09:
 - setup the additional Sponsorships
