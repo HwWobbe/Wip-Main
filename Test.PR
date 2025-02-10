@@ -1,1 +1,12 @@
-This is a test Pull Request from the DIG repository.
+This file is a part of a test Pull Request from the DIG repository.
+
+* note that this file is NOT an instance of a *.md
+
+* try to complete this as a test prior to sending GeoSpatial PR's to Jeremy.
+  * ideally: this will be seen as a PR
+    * JrHw can dnDrop by Tag from a TiddlyHost site until then
+  * https://maps.canada.ca/czs/index-en.html
+* Explore its potential.
+  * ...
+* check other reliable repos so see how code files are handled.
+  * MarioP is a good candidate
