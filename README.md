@@ -611,7 +611,7 @@ H6 level support allows me to start naming blocks as Anchors that I can then jum
   - these QLs can span repos in order to rationalize relative Priorities
     - this shouild work even with a mix of Private repos [ test this ]
 
-### These quickLinks are for the convenience of the Author(s).  
+### Now, these quickLinks are for the convenience of the Author(s).  
 
 As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia and the TenChapters ( 0-9 ) quidelines.
 
