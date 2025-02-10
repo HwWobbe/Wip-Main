@@ -628,6 +628,12 @@ As content matures, Author links will be replaced by convenient Reader links.  A
   * https://gist.github.com/HwWobbe
 
 * Dig should be a subset of AdManCa  (Division) of CSI (for now)
+
+
+* consider the value of having at least one PR ( and Comments ) for each repo
+  * try using a Branch more effectively
+  * this could be a scheduling aid
+* ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ extend with the .ye values
   * consider the implications of the external "divisions" distinctions made by Empire
     * how would these be integrated into our (merged) Notice To Reader statements?
       * what are the Tax implications?
