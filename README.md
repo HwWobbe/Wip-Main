@@ -15,6 +15,8 @@ As content matures, Author links will be replaced by convenient Reader links.  A
   * Text block creation and Permission Management are likely to be the determining forces.
     * this may be a duplicated item
 
+2025-05-14: resumption after an AiHiatus
+
 <hr>
 
 # 2023:
