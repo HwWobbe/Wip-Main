@@ -16,10 +16,11 @@ As content matures, Author links will be replaced by convenient Reader links.  A
     * this may be a duplicated item
 
 ## 2025-08:
-
-### 2025-05-14: resumption after an AiHiatus
+...
 
 <hr>
+
+### 2025-05-14: resumption after an AiHiatus
 
 # 2023:
 ##
