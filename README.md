@@ -18,6 +18,9 @@ As content matures, Author links will be replaced by convenient Reader links.  A
 ## 2025-08:
 ...
 
+### 2025-08-03: ...
+...
+
 <hr>
 
 ### 2025-05-14: resumption after an AiHiatus
