@@ -16,7 +16,8 @@ As content matures, Author links will be replaced by convenient Reader links.  A
     * this may be a duplicated item
 
 ## 2025-11:
-...
+Resuming intermittant posts.
+
 
 ### 2025-11-03:
 ...
